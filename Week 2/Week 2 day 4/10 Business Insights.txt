@@ -1,0 +1,27 @@
+Player Performance & Value Insights
+
+1.Weighted Impact Over Volume: The custom Performance Index evaluates a player's true field impact by placing heavier mathematical weights on high-value actions like goals (weight 5.0) and clearances (weight 2.0) over standard disposals (weight 0.2).  
+
+2.Top Career MVP: Caleb Serong ranks as the most valuable player across all seasons analyzed, achieving the highest Performance Index of 35.09 over 127 career games.  
+
+3.Elite Player Tier: Clayton Oliver and Matt Rowell follow closely behind as the second and third most valuable players historically, with Performance Indexes of 34.89 and 34.41, respectively.  
+
+4.Longevity Ensures Accuracy: Filtering out players with fewer than 50 career games for the MVP analysis successfully prevents rookies or players with small sample sizes from artificially topping the leaderboard due to early statistical anomalies.  
+
+Consistency & Reliability Insights
+
+5.Measuring True Reliability: To evaluate current player reliability, performance consistency is effectively tracked using the Coefficient of Variation (Standard Deviation divided by Mean of fantasy points).  
+
+6.Most Consistent Asset: Rory Laird proved to be the most consistent player in the most recent season, holding the lowest Coefficient of Variation at roughly 0.156 across 22 games.  
+
+7.High-Scoring Consistency: Tim English stands out as a premium asset, managing to maintain top-tier consistency (CV of 0.169) while also boasting the highest Mean Fantasy Points (110.73) among the top 10 most consistent players.  
+
+8.Activity Thresholds for Trend Analysis: Implementing a minimum threshold of 15 games played in a season is necessary to accurately assess fantasy point consistency and filter out players with reliable but insufficient match appearances.  
+
+Data Engineering & Strategy Insights
+
+9.Targeted Merging Strategies: Separating the data merges into "Season-Level" and "Round-Level" datasets using Left Joins prevents massive data duplication that would occur if all season totals and round-by-round logs were crammed into a single table. 
+
+10.Standardization is Critical for Grouping: Standardizing team names by converting them to lowercase and stripping whitespace is a mandatory data-cleaning step, as the raw data contains duplicate entities caused entirely by capitalization and spacing variations (e.g., "ADELAIDE CROWS" vs. "Adelaide Crows").  
+
+11.Appropriate Imputation of Metrics: Missing in-game sports metrics are handled correctly by imputing them with 0 rather than a mean or median; this accurately reflects a lack of statistical accumulation rather than falsely inflating a player's performance record.  

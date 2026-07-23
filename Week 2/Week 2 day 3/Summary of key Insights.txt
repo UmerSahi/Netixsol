@@ -1,0 +1,11 @@
+Key Insights from Player Data Analysis
+
+1.The provided dataset is highly robust, containing 25,074 player records across 58 distinct columns. Preliminary data cleaning checks confirm it is perfectly clean, with zero missing values and zero duplicate entries found.  
+
+2.The Geelong Cats hold the record for the most games played at 16,834, whereas the Fitzroy Lions have played the fewest at 1,078. Ultimately, the total number of games played merely reflects how long a club has been active in the competition, and it should not be used as a metric to evaluate a team's competitive strength.  
+
+3.The highest concentration of players falls into the 29-31 age bracket, peaking specifically at exactly 31 years of age. Because player counts drop sharply past the age of 34, it is highly recommended that franchises implement proper systems to recruit young talent and capitalize on their prime playing years.  
+
+4.The Carlton Blues have utilized the highest number of unique players, totaling 253 individuals. The high volume of unique players historically used by older clubs primarily indicates that teams regularly turn over their squads from season to season.  
+
+5.Player weight distributions are incredibly uniform across all teams, with median weights universally landing in the 84-88 kg range. The presence of very few outliers indicates that franchises heavily target players with the exact same physical build, showing no preference for exceptionally lighter or heavier athletes.  
