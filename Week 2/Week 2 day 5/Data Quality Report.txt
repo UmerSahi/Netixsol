@@ -1,0 +1,26 @@
+Data Quality Report: Sports Dataset Integration & Enrichment
+
+1. Merge Keys and Methodology
+To achieve a high fidelity join between the player performance data (`round_stats`) and match level metadata (`team_matches`), we implemented the following strategy:
+Composite Primary Key: I linked records using a combination of `match_date` and `team`. This was necessary because single attributes like 'Year' or 'Round' are not unique enough to identify a single game.
+Left Join Strategy: We used a left join anchored on `round_stats`. This ensured that we preserved all 217,568 original player level statistical records while enriching them with additional context where available.
+
+2. Challenges Encountered
+Team Name Normalization: The two datasets had different conventions for team names. Notably, the 'Western Bulldogs' were represented as both `w. bulldogs` and `western bulldogs`. 
+String Metadata Issues: We encountered 'dirty' strings containing tab characters (`\t`) and leading/trailing whitespace which caused initial join failures before standardization.
+Schema Heterogeneity: Standardizing the `match_date` column was critical, as one dataset stored dates as objects (strings) while the other was pre formatted, necessitating a conversion to `datetime64[ns]`.
+
+3. Data Quality Issues Discovered
+Crowd Attendance Gaps: Approximately 2.52% of the matches lacked crowd data. Our investigation revealed these gaps were concentrated in the 2020 and 2021 seasons.
+Venue Redundancy: Some venues appeared multiple times with slight variations (e.g., `Marvel Stadium` vs `Marvel Stadium\n`).
+Granularity Verification: A risk of 'row inflation' (Cartesian product) was identified if the match metadata contained duplicates for the same team and date. 
+
+4. Assumptions Made During Integration
+COVID-19 Imputation: We assumed all missing crowd values in 2020 and 2021 were `0`. This is supported by the historical context of the pandemic where AFL matches were played behind closed doors.
+Ground Truth for Participation: We assumed `round_stats` is the authoritative source for which players participated in which matches. 
+Metric Consistency: We assumed that the definitions for KPIs like `fantasy_points` and `disposals` remained consistent across the historical span of the datasets.
+
+Final Validation Status: PASSED
+Row Count: 217,568 (100% match).
+Duplicate Records: 0 duplicates introduced.
+Unmatched Records: 0% (Perfect join achieved after string cleaning).
