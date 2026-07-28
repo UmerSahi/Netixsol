@@ -10,6 +10,7 @@ documented below using the ERD generated with pgAdmin's built-in **ERD Tool**.
 ## Relationship Diagram
 
 ![DVD Rental ERD](./ERD_Diagram_DVDRENTAL.png)
+![alt text](<ERD Diagram DVDRENTAL.png>)
 
 The schema is organized around three connected clusters:
 
