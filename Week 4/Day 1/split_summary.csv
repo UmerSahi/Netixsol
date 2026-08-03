@@ -1,0 +1,5 @@
+Split,Shape,Percentage of Full Data,Positive Rate
+train,"(34188, 16)",70.0%,0.2393
+dev,"(4885, 16)",10.0%,0.2393
+test,"(9769, 16)",20.0%,0.2393
+full data,"(48842, 16)",100.0%,0.2393
