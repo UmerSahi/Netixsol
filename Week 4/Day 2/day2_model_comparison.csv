@@ -1,0 +1,5 @@
+model,accuracy,precision,recall,f1,roc_auc,pr_auc
+Day1: Majority class,0.761,0.0,0.0,0.0,0.5,0.239
+Day1: Rule (education_num>=13),0.753,0.484,0.497,0.491,0.665,0.361
+Day2: Logistic Regression,0.853,0.74,0.593,0.658,0.903,0.76
+Day2: Decision Tree,0.824,0.64,0.606,0.623,0.776,0.514
