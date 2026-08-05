@@ -1,0 +1,8 @@
+name,type,creation,justification,mutual_info
+age_bucket,categorical,pd.cut(age),Age groups capture non-linear age-income effects,0.059889186122010926
+hours_bin,categorical,pd.cut(hours-per-week),Work-hour patterns relate to income,0.037875625934680586
+cap_gain_flag,binary,capital-gain > 0,Any capital gains often indicate additional income sources,0.02964091664446908
+log_cap_gain,numeric,log1p(capital-gain),Reduce skew and limit outlier influence of large gains,0.0830063769094107
+higher_education,binary,"education in {Bachelors,Masters,Doctorate}",Higher education is correlated with higher earnings,0.03712057400239441
+edu_hours_interaction,numeric,education-num * hours-per-week,Captures combined effect of education and hours worked,0.08148048569008615
+net_capital,numeric,capital-gain - capital-loss,Net capital may be more informative than separate values,0.1211548329063008
