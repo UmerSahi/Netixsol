@@ -1,0 +1,8 @@
+{"event": "ticket_submitted", "ticket_id": "d0541611-3639-404d-8c20-4e2ff4c4f2a2", "timestamp": 1787117539.8613622, "latency_ms": 1811.4, "category": "refund", "status": "", "input_tokens": 267, "output_tokens": 95, "tool_calls": ["billing_lookup"], "error": null}
+{"event": "ticket_submitted", "ticket_id": "d0541611-3639-404d-8c20-4e2ff4c4f2a2", "timestamp": 1787117539.8613622, "latency_ms": 1811.4, "category": "refund", "status": "", "input_tokens": 267, "output_tokens": 95, "tool_calls": ["billing_lookup"], "error": null}
+{"event": "ticket_approved", "ticket_id": "d0541611-3639-404d-8c20-4e2ff4c4f2a2", "timestamp": 1787117539.8818436, "latency_ms": 6.1, "approved": true, "status": "resolved"}
+{"event": "ticket_approved", "ticket_id": "d0541611-3639-404d-8c20-4e2ff4c4f2a2", "timestamp": 1787117539.8818436, "latency_ms": 6.1, "approved": true, "status": "resolved"}
+{"event": "ticket_submitted", "ticket_id": "2a900292-2611-4952-9666-e8cdaebb1e6e", "timestamp": 1787117577.548541, "latency_ms": 1819.3, "category": "refund", "status": "", "input_tokens": 240, "output_tokens": 68, "tool_calls": ["billing_lookup"], "error": null}
+{"event": "ticket_submitted", "ticket_id": "2a900292-2611-4952-9666-e8cdaebb1e6e", "timestamp": 1787117577.548541, "latency_ms": 1819.3, "category": "refund", "status": "", "input_tokens": 240, "output_tokens": 68, "tool_calls": ["billing_lookup"], "error": null}
+{"event": "ticket_approved", "ticket_id": "2a900292-2611-4952-9666-e8cdaebb1e6e", "timestamp": 1787117577.5652556, "latency_ms": 5.2, "approved": true, "status": "resolved"}
+{"event": "ticket_approved", "ticket_id": "2a900292-2611-4952-9666-e8cdaebb1e6e", "timestamp": 1787117577.5652556, "latency_ms": 5.2, "approved": true, "status": "resolved"}
