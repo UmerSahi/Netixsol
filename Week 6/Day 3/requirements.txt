@@ -1,0 +1,4 @@
+pandas
+numpy
+pytest
+google-genai>=1.0.0
