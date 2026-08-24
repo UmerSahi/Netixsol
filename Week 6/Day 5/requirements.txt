@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+joblib
+pydantic
+typing_extensions
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+python-dotenv
+fastapi
+uvicorn[standard]
