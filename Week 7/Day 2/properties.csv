@@ -1,0 +1,751 @@
+property_id,property_type,purpose,city,locality,location,price,price_bin,area_marla,area_sqft,bedrooms,baths,latitude,longitude,date_added,agent_id,agent
+PROP-1000,House,For Sale,Lahore,"College Road, Lahore, Punjab",College Road,8500000,Low,4.0,1089.0,4,3,31.422982,74.281932,02-03-2019,AG-02,Sana Malik
+PROP-1001,House,For Rent,Lahore,"Faisal Town, Lahore, Punjab",Faisal Town,220000,Very High,20.0,5445.02,5,5,31.469009000000003,74.30945600000001,07-19-2019,AG-03,Bilal Chaudhry
+PROP-1002,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,70000000,Very High,20.0,5445.02,5,5,31.489944,74.31863299999999,07-03-2019,AG-02,Sana Malik
+PROP-1003,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,155000,High,20.0,5445.02,5,6,31.46641,74.38362099999999,07-20-2019,AG-02,Sana Malik
+PROP-1004,Flat,For Sale,Lahore,"Ferozepur Road, Lahore, Punjab",Ferozepur Road,5000000,Medium,3.7,1007.33,3,2,31.502166,74.333439,01-04-2019,AG-03,Bilal Chaudhry
+PROP-1005,House,For Sale,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,45000000,Very High,20.0,5445.02,4,4,31.518337,74.297862,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1006,House,For Sale,Lahore,"Tariq Gardens, Lahore, Punjab",Tariq Gardens,27500000,High,10.0,2722.51,6,6,31.420094,74.254174,03-04-2019,AG-01,Ahmed Raza
+PROP-1007,Flat,For Rent,Lahore,"Shershah Colony - Ichra, Lahore, Punjab",Shershah Colony - Ichra,25000,Low,3.1,843.98,2,2,31.536335,74.321308,05-25-2019,AG-01,Ahmed Raza
+PROP-1008,House,For Sale,Lahore,"T & T Aabpara Housing Society, Lahore, Punjab",T & T Aabpara Housing Society,9000000,Low,6.0,1633.51,5,6,31.413355,74.239926,03-05-2019,AG-03,Bilal Chaudhry
+PROP-1009,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,270000000,Very High,80.0,21780.08,7,8,31.481966,74.313834,06-25-2019,AG-02,Sana Malik
+PROP-1010,House,For Sale,Lahore,"Madina Colony, Lahore, Punjab",Madina Colony,10000000,Medium,6.0,1633.51,4,5,31.491334,74.361305,05-04-2019,AG-03,Bilal Chaudhry
+PROP-1011,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,200000000,Very High,80.0,21780.08,6,6,31.483283,74.335728,06-29-2019,AG-03,Bilal Chaudhry
+PROP-1012,House,For Sale,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,6000000,Low,2.0,544.5,3,2,31.518337,74.297862,02-03-2019,AG-01,Ahmed Raza
+PROP-1013,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,60000000,Very High,40.0,10890.04,10,6,31.523954,74.42790699999999,02-03-2019,AG-01,Ahmed Raza
+PROP-1014,Upper Portion,For Rent,Lahore,"Garden Town, Lahore, Punjab",Garden Town,26000,Low,5.0,1361.25,2,2,31.492981,74.31246800000001,07-20-2019,AG-02,Sana Malik
+PROP-1015,House,For Rent,Lahore,"Township, Lahore, Punjab",Township,200000,Very High,20.0,5445.02,8,8,31.439026,74.295001,02-24-2019,AG-02,Sana Malik
+PROP-1016,Farm House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,59500000,High,340.0,92565.34,0,0,31.526020000000003,74.446685,07-16-2019,AG-01,Ahmed Raza
+PROP-1017,Upper Portion,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,70000,Very High,20.0,5445.02,2,2,31.47428,74.38091800000001,03-26-2019,AG-01,Ahmed Raza
+PROP-1018,House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,13500000,Medium,10.0,2722.51,2,2,31.49858,74.40926999999999,06-25-2019,AG-03,Bilal Chaudhry
+PROP-1019,Upper Portion,For Rent,Lahore,"HBFC Housing Society, Lahore, Punjab",HBFC Housing Society,38000,Medium,7.0,1905.76,2,0,31.455684,74.406953,07-17-2019,AG-03,Bilal Chaudhry
+PROP-1020,House,For Sale,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,170000000,Very High,20.0,5445.02,0,0,31.522288,74.287734,05-04-2019,AG-03,Bilal Chaudhry
+PROP-1021,Upper Portion,For Rent,Lahore,"PCSIR Staff Colony, Lahore, Punjab",PCSIR Staff Colony,30000,Medium,10.0,2722.51,3,3,31.431054,74.291125,07-10-2019,AG-01,Ahmed Raza
+PROP-1022,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,22500000,High,10.0,2722.51,5,6,31.352611,74.16516800000001,06-11-2019,AG-03,Bilal Chaudhry
+PROP-1023,House,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,90000,High,10.0,2722.51,5,7,31.469082,74.266148,07-17-2019,AG-02,Sana Malik
+PROP-1024,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,52500000,Very High,20.0,5445.02,6,7,31.458686,74.406624,06-18-2019,AG-02,Sana Malik
+PROP-1025,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,13200000,Medium,5.0,1361.25,4,5,31.469082,74.266148,06-29-2019,AG-03,Bilal Chaudhry
+PROP-1026,House,For Sale,Lahore,"Harbanspura Road, Lahore, Punjab",Harbanspura Road,8000000,Low,5.0,1361.25,0,0,33.588311344901,73.03539276123,09-07-2018,AG-03,Bilal Chaudhry
+PROP-1027,House,For Sale,Lahore,"GT Road, Lahore, Punjab",GT Road,3600000,Low,3.0,816.75,3,3,31.724188,74.26220699999999,07-17-2019,AG-03,Bilal Chaudhry
+PROP-1028,Upper Portion,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,80000,Very High,20.0,5445.02,3,4,31.461468,74.389973,07-17-2019,AG-03,Bilal Chaudhry
+PROP-1029,House,For Sale,Lahore,"Inmol Society, Lahore, Punjab",Inmol Society,30000000,High,20.0,5445.02,5,0,31.405492,74.40593199999999,03-05-2019,AG-01,Ahmed Raza
+PROP-1030,Upper Portion,For Rent,Lahore,"TECH Society, Lahore, Punjab",TECH Society,70000,Very High,26.0,7078.53,3,3,31.488626,74.284816,07-22-2019,AG-03,Bilal Chaudhry
+PROP-1031,House,For Sale,Lahore,"Faisal Town, Lahore, Punjab",Faisal Town,59000000,Very High,10.0,2722.51,4,0,31.475414,74.30851899999999,07-12-2019,AG-01,Ahmed Raza
+PROP-1032,House,For Sale,Lahore,"Thokar Niaz Baig, Lahore, Punjab",Thokar Niaz Baig,90000000,Very High,40.0,10890.04,5,0,31.470693,74.241357,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1033,House,For Sale,Lahore,"Chungi Amar Sadhu, Lahore, Punjab",Chungi Amar Sadhu,4200000,Low,2.5,680.63,3,2,31.450925,74.354287,01-04-2019,AG-01,Ahmed Raza
+PROP-1034,House,For Rent,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,75000,Medium,10.0,2722.51,5,5,31.421046,74.263186,07-21-2019,AG-01,Ahmed Raza
+PROP-1035,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,59500000,Very High,20.0,5445.02,5,6,31.462493,74.40934200000001,06-18-2019,AG-01,Ahmed Raza
+PROP-1036,House,For Sale,Lahore,"Nawab Town, Lahore, Punjab",Nawab Town,28000000,High,20.0,5445.02,6,6,31.452609,74.249039,09-06-2018,AG-01,Ahmed Raza
+PROP-1037,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,250000,Very High,40.0,10890.04,5,6,31.478745,74.407969,04-25-2019,AG-01,Ahmed Raza
+PROP-1038,House,For Sale,Lahore,"Township, Lahore, Punjab",Township,16000000,Medium,10.0,2722.51,2,2,31.439026,74.295001,03-05-2019,AG-03,Bilal Chaudhry
+PROP-1039,House,For Rent,Lahore,"Upper Mall, Lahore, Punjab",Upper Mall,185000,Very High,30.0,8167.53,5,6,31.542114,74.355898,03-26-2019,AG-01,Ahmed Raza
+PROP-1040,House,For Sale,Lahore,"DHA 11 Rahbar, Lahore, Punjab",DHA 11 Rahbar,17000000,High,8.0,2178.01,5,6,31.389326,74.252551,07-17-2019,AG-02,Sana Malik
+PROP-1041,House,For Sale,Lahore,"Punjab Coop Housing Society, Lahore, Punjab",Punjab Coop Housing Society,14000000,Medium,5.0,1361.25,3,0,31.458979,74.373565,07-01-2019,AG-02,Sana Malik
+PROP-1042,House,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,52000,Medium,5.0,1361.25,4,5,31.469082,74.266148,07-17-2019,AG-02,Sana Malik
+PROP-1043,Upper Portion,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,60000,High,30.0,8167.53,5,0,31.469558000000003,74.28139,06-24-2019,AG-03,Bilal Chaudhry
+PROP-1044,House,For Sale,Lahore,"Samanabad, Lahore, Punjab",Samanabad,3800000,Low,2.0,544.5,3,3,31.539206,74.305515,07-03-2019,AG-01,Ahmed Raza
+PROP-1045,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,220000,Very High,20.0,5445.02,6,7,31.471571,74.44590600000001,01-25-2019,AG-03,Bilal Chaudhry
+PROP-1046,House,For Rent,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,60000,Medium,10.0,2722.51,5,5,31.436646000000003,74.267135,07-21-2019,AG-01,Ahmed Raza
+PROP-1047,House,For Sale,Lahore,"Taj Bagh Scheme, Lahore, Punjab",Taj Bagh Scheme,6500000,Low,3.0,816.75,3,0,31.563252,74.413877,06-28-2019,AG-03,Bilal Chaudhry
+PROP-1048,Upper Portion,For Rent,Lahore,"Military Accounts Housing Society, Lahore, Punjab",Military Accounts Housing Society,30000,Medium,8.0,2178.01,3,0,31.421266,74.28397199999999,07-17-2019,AG-02,Sana Malik
+PROP-1049,House,For Sale,Lahore,"Al-Hafiz Town, Lahore, Punjab",Al-Hafiz Town,12500000,Medium,5.0,1361.25,5,6,31.508595,74.249121,07-03-2019,AG-02,Sana Malik
+PROP-1050,House,For Sale,Lahore,"Canal Bank Housing Scheme, Lahore, Punjab",Canal Bank Housing Scheme,4500000,Low,2.0,544.5,3,3,31.572434,74.413002,06-11-2019,AG-01,Ahmed Raza
+PROP-1051,House,For Sale,Lahore,"Gulshan-e-Ravi, Lahore, Punjab",Gulshan-e-Ravi,15000000,Medium,5.0,1361.25,3,4,31.551184000000003,74.284058,07-03-2019,AG-03,Bilal Chaudhry
+PROP-1052,House,For Sale,Lahore,"Raiwind Road, Lahore, Punjab",Raiwind Road,14000000,Medium,8.0,2178.01,4,6,31.429249,74.23078000000001,08-07-2018,AG-01,Ahmed Raza
+PROP-1053,Upper Portion,For Rent,Lahore,"Valencia Housing Society, Lahore, Punjab",Valencia Housing Society,42000,High,20.0,5445.02,3,3,31.40537,74.257078,07-19-2019,AG-02,Sana Malik
+PROP-1054,House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,7000000,Low,4.0,1089.0,4,4,31.490127,74.418805,07-21-2019,AG-03,Bilal Chaudhry
+PROP-1055,House,For Sale,Lahore,"Harbanspura, Lahore, Punjab",Harbanspura,7500000,Low,3.0,816.75,3,4,31.572261,74.417101,04-03-2019,AG-02,Sana Malik
+PROP-1056,Upper Portion,For Rent,Lahore,"Model Town, Lahore, Punjab",Model Town,50000,High,20.0,5445.02,3,0,31.491115,74.332538,07-18-2019,AG-02,Sana Malik
+PROP-1057,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,58500000,Very High,20.0,5445.02,5,6,31.471571,74.44590600000001,06-19-2019,AG-03,Bilal Chaudhry
+PROP-1058,House,For Sale,Lahore,"Askari, Lahore, Punjab",Askari,23000000,High,10.0,2722.51,0,4,31.547381,74.39389200000001,09-06-2018,AG-01,Ahmed Raza
+PROP-1059,House,For Sale,Lahore,"Bhatta Chowk, Lahore, Punjab",Bhatta Chowk,12500000,Medium,5.0,1361.25,4,5,31.487441,74.41206,01-04-2019,AG-03,Bilal Chaudhry
+PROP-1060,House,For Sale,Lahore,"Ferozepur Road, Lahore, Punjab",Ferozepur Road,4000000,Low,2.5,680.63,2,2,31.502166,74.333439,05-04-2019,AG-02,Sana Malik
+PROP-1061,House,For Sale,Lahore,"West Wood Housing Society, Lahore, Punjab",West Wood Housing Society,11000000,Medium,10.0,2722.51,2,2,31.465787887573,74.237884521484,06-30-2019,AG-02,Sana Malik
+PROP-1062,House,For Sale,Lahore,"Paragon City, Lahore, Punjab",Paragon City,17000000,High,10.0,2722.51,3,4,31.533372,74.45134200000001,06-18-2019,AG-01,Ahmed Raza
+PROP-1063,Lower Portion,For Rent,Lahore,"Shershah Colony - Raiwind Road, Lahore, Punjab",Shershah Colony - Raiwind Road,16000,Low,3.0,816.75,1,1,31.410095,74.222553,07-22-2019,AG-03,Bilal Chaudhry
+PROP-1064,House,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,250000,Very High,40.0,10890.04,6,6,31.462347,74.293642,03-26-2019,AG-02,Sana Malik
+PROP-1065,Lower Portion,For Rent,Lahore,"Mughalpura, Lahore, Punjab",Mughalpura,15000,Low,6.0,1633.51,2,1,31.563398,74.3891,04-25-2019,AG-01,Ahmed Raza
+PROP-1066,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,44000000,Very High,10.0,2722.51,5,7,31.462493,74.40934200000001,07-03-2019,AG-01,Ahmed Raza
+PROP-1067,House,For Sale,Lahore,"Punjab Govt Employees Society, Lahore, Punjab",Punjab Govt Employees Society,17400000,High,10.0,2722.51,3,3,31.420167,74.285746,06-19-2019,AG-03,Bilal Chaudhry
+PROP-1068,House,For Sale,Lahore,"Al Rehman Garden, Lahore, Punjab",Al Rehman Garden,9000000,Low,5.0,1361.25,3,4,31.594039,74.227489,03-05-2019,AG-01,Ahmed Raza
+PROP-1069,House,For Sale,Lahore,"GT Road, Lahore, Punjab",GT Road,6500000,Low,5.0,1361.25,3,3,31.597832537936,74.472565412652,06-03-2019,AG-02,Sana Malik
+PROP-1070,Upper Portion,For Rent,Lahore,"Bedian Road, Lahore, Punjab",Bedian Road,15000,Low,5.0,1361.25,2,2,31.473474,74.429569,06-24-2019,AG-01,Ahmed Raza
+PROP-1071,House,For Sale,Lahore,"Wahdat Road, Lahore, Punjab",Wahdat Road,12000000,Medium,5.0,1361.25,4,4,31.506008,74.29315600000001,06-11-2019,AG-02,Sana Malik
+PROP-1072,Flat,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,25000000,Very High,7.0,1905.76,2,3,31.5288,74.39312,06-19-2019,AG-02,Sana Malik
+PROP-1073,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,34000000,Very High,20.0,5445.02,5,6,31.469521000000004,74.363322,06-02-2019,AG-01,Ahmed Raza
+PROP-1074,House,For Sale,Lahore,"Bahadurabad, Lahore, Punjab",Bahadurabad,2500000,Low,1.7,462.83,2,2,31.45156,74.377321,05-03-2019,AG-01,Ahmed Raza
+PROP-1075,House,For Sale,Lahore,"Sui Gas Housing Society, Lahore, Punjab",Sui Gas Housing Society,29900000,High,20.0,5445.02,5,6,31.453561,74.398513,06-25-2019,AG-03,Bilal Chaudhry
+PROP-1076,House,For Rent,Lahore,"BOR - Board of Revenue Housing Society, Lahore, Punjab",BOR - Board of Revenue Housing Society,47000,Medium,5.0,1361.25,3,0,31.478452,74.296846,05-25-2019,AG-01,Ahmed Raza
+PROP-1077,House,For Sale,Lahore,"HBFC Housing Society, Lahore, Punjab",HBFC Housing Society,22000000,High,18.0,4900.52,0,0,31.455684,74.406953,06-02-2019,AG-01,Ahmed Raza
+PROP-1078,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,27000000,High,10.0,2722.51,4,5,31.506612,74.440696,02-23-2019,AG-01,Ahmed Raza
+PROP-1079,House,For Sale,Lahore,"Raiwind Road, Lahore, Punjab",Raiwind Road,11200000,Medium,5.0,1361.25,3,0,31.318439,74.22528299999999,07-20-2019,AG-01,Ahmed Raza
+PROP-1080,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,140000,High,20.0,5445.02,0,0,31.455721,74.386368,07-03-2019,AG-02,Sana Malik
+PROP-1081,Flat,For Rent,Lahore,"Askari, Lahore, Punjab",Askari,48000,High,10.0,2722.51,3,3,31.544308,74.383832,03-26-2019,AG-02,Sana Malik
+PROP-1082,House,For Rent,Lahore,"Faisal Town, Lahore, Punjab",Faisal Town,150000,High,20.0,5445.02,5,5,31.478013,74.304285,07-23-2019,AG-03,Bilal Chaudhry
+PROP-1083,Flat,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,20000,Low,1.3,353.93,2,1,31.468826,74.273973,06-24-2019,AG-02,Sana Malik
+PROP-1084,Farm House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,22000000,Medium,80.0,21780.08,0,0,31.526020000000003,74.446685,06-11-2019,AG-02,Sana Malik
+PROP-1085,House,For Sale,Lahore,"Baghbanpura, Lahore, Punjab",Baghbanpura,3500000,Low,2.0,544.5,2,2,31.584531,74.372978,09-06-2018,AG-01,Ahmed Raza
+PROP-1086,House,For Sale,Lahore,"Al Rehman Garden, Lahore, Punjab",Al Rehman Garden,5500000,Low,3.0,816.75,1,1,31.590489,74.224176,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1087,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,27500000,High,10.0,2722.51,4,5,31.494408,74.43766600000001,06-18-2019,AG-03,Bilal Chaudhry
+PROP-1088,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,70000000,Very High,20.0,5445.02,5,6,31.465422,74.38530899999999,05-03-2019,AG-01,Ahmed Raza
+PROP-1089,House,For Sale,Lahore,"Baghbanpura, Lahore, Punjab",Baghbanpura,9500000,Low,7.0,1905.76,0,0,31.584531,74.372978,01-04-2019,AG-03,Bilal Chaudhry
+PROP-1090,House,For Rent,Lahore,"Gulberg, Lahore, Punjab",Gulberg,125000,High,20.0,5445.02,5,5,31.495909,74.350569,07-17-2019,AG-02,Sana Malik
+PROP-1091,House,For Rent,Lahore,"Model Town, Lahore, Punjab",Model Town,110000,High,15.0,4083.76,4,6,31.491115,74.332538,07-10-2019,AG-02,Sana Malik
+PROP-1092,House,For Rent,Lahore,"Ferozepur Road, Lahore, Punjab",Ferozepur Road,150000,High,22.0,5989.52,10,6,31.403327,74.362115,04-25-2019,AG-01,Ahmed Raza
+PROP-1093,House,For Sale,Lahore,"Green Town, Lahore, Punjab",Green Town,10000000,Medium,5.0,1361.25,2,2,31.434742,74.30472900000001,07-03-2019,AG-02,Sana Malik
+PROP-1094,House,For Sale,Lahore,"Daroghewala, Lahore, Punjab",Daroghewala,3700000,Low,3.2,871.2,4,3,31.588478,74.400444,03-05-2019,AG-02,Sana Malik
+PROP-1095,House,For Sale,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,24000000,High,13.5,3675.39,5,0,31.525215000000003,74.29065200000001,07-12-2019,AG-01,Ahmed Raza
+PROP-1096,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,15000000,Medium,5.0,1361.25,0,0,31.455867,74.274273,07-03-2019,AG-02,Sana Malik
+PROP-1097,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,160000,High,20.0,5445.02,6,6,31.466447,74.408984,07-18-2019,AG-01,Ahmed Raza
+PROP-1098,House,For Sale,Lahore,"Iqbal Avenue, Lahore, Punjab",Iqbal Avenue,19500000,High,10.0,2722.51,5,0,31.424562,74.190281,06-11-2019,AG-01,Ahmed Raza
+PROP-1099,Upper Portion,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,85000,Very High,20.0,5445.02,3,3,31.473877,74.39817,05-25-2019,AG-01,Ahmed Raza
+PROP-1100,Lower Portion,For Rent,Lahore,"Township, Lahore, Punjab",Township,23000,Low,5.0,1361.25,2,2,31.453414,74.31623,07-10-2019,AG-03,Bilal Chaudhry
+PROP-1101,House,For Sale,Lahore,"Lahore Motorway City, Lahore, Punjab",Lahore Motorway City,2800000,Low,3.0,816.75,2,1,31.643481,74.209875,07-11-2019,AG-01,Ahmed Raza
+PROP-1102,House,For Sale,Lahore,"Bedian Road, Lahore, Punjab",Bedian Road,13500000,Medium,9.0,2450.26,4,4,31.473475,74.429565,07-03-2019,AG-01,Ahmed Raza
+PROP-1103,House,For Sale,Lahore,"China Scheme, Lahore, Punjab",China Scheme,13000000,Medium,6.6,1796.86,5,6,31.598642,74.359374,08-07-2018,AG-01,Ahmed Raza
+PROP-1104,House,For Sale,Lahore,"Salamatpura, Lahore, Punjab",Salamatpura,6000000,Low,4.0,1089.0,4,4,31.582849,74.417009,08-07-2018,AG-02,Sana Malik
+PROP-1105,House,For Sale,Lahore,"Nawab Town, Lahore, Punjab",Nawab Town,6500000,Low,3.0,816.75,3,5,31.452609,74.249039,03-05-2019,AG-02,Sana Malik
+PROP-1106,House,For Sale,Lahore,"Marghzar Officers Colony, Lahore, Punjab",Marghzar Officers Colony,17500000,High,13.0,3539.26,3,0,31.505093,74.244576,07-23-2019,AG-01,Ahmed Raza
+PROP-1107,House,For Rent,Lahore,"Garden Town, Lahore, Punjab",Garden Town,425000,Very High,80.0,21780.08,7,10,31.503922,74.323139,06-24-2019,AG-03,Bilal Chaudhry
+PROP-1108,Flat,For Sale,Lahore,"Labor Colony, Lahore, Punjab",Labor Colony,2490000,Low,3.0,816.75,2,2,31.40396,74.214497,07-23-2019,AG-03,Bilal Chaudhry
+PROP-1109,House,For Rent,Lahore,"Divine Gardens, Lahore, Punjab",Divine Gardens,55000,Medium,10.0,2722.51,4,4,31.50308,74.412864,07-17-2019,AG-01,Ahmed Raza
+PROP-1110,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,48000,Medium,5.0,1361.25,3,4,31.465693868786,74.363099634647,07-10-2019,AG-02,Sana Malik
+PROP-1111,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,75000,Medium,10.0,2722.51,3,3,31.461761,74.36834300000001,07-24-2019,AG-03,Bilal Chaudhry
+PROP-1112,Flat,For Sale,Lahore,"Bagarian, Lahore, Punjab",Bagarian,8500000,High,8.0,2178.01,11,10,31.425944,74.295998,07-03-2019,AG-01,Ahmed Raza
+PROP-1113,House,For Sale,Lahore,"Askari, Lahore, Punjab",Askari,41500000,Very High,17.0,4628.27,5,6,31.533849,74.409633,06-18-2019,AG-03,Bilal Chaudhry
+PROP-1114,House,For Sale,Lahore,"Walled City, Lahore, Punjab",Walled City,8500000,Low,3.0,816.75,5,2,31.584129,74.31456999999999,07-18-2019,AG-01,Ahmed Raza
+PROP-1115,House,For Sale,Lahore,"State Life Housing Society, Lahore, Punjab",State Life Housing Society,45500000,Very High,20.0,5445.02,5,6,31.44558,74.401217,06-18-2019,AG-02,Sana Malik
+PROP-1116,House,For Sale,Lahore,"Elite Town, Lahore, Punjab",Elite Town,3000000,Low,5.0,1361.25,3,3,31.340003000000003,74.372277,11-05-2018,AG-03,Bilal Chaudhry
+PROP-1117,House,For Sale,Lahore,"Fateh Garh, Lahore, Punjab",Fateh Garh,8500000,Low,6.0,1633.51,2,2,31.568790000000003,74.40495,10-06-2018,AG-02,Sana Malik
+PROP-1118,Upper Portion,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,58000,High,20.0,5445.02,3,3,31.471571,74.44590600000001,06-24-2019,AG-01,Ahmed Raza
+PROP-1119,House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,6000000,Low,2.5,680.63,3,3,31.5288,74.39312,03-04-2019,AG-02,Sana Malik
+PROP-1120,House,For Sale,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,18000000,High,10.0,2722.51,5,6,31.430421000000003,74.267721,05-04-2019,AG-02,Sana Malik
+PROP-1121,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,55000000,Very High,20.0,5445.02,5,6,31.467105,74.459581,11-05-2018,AG-01,Ahmed Raza
+PROP-1122,House,For Sale,Lahore,"Punjab Coop Housing Society, Lahore, Punjab",Punjab Coop Housing Society,30000000,High,24.0,6534.02,5,6,31.458979,74.373565,06-03-2019,AG-01,Ahmed Raza
+PROP-1123,Room,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,6500,Low,1.0,272.25,1,1,31.461066,74.27881500000001,12-26-2018,AG-02,Sana Malik
+PROP-1124,House,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,32000,Low,8.0,2178.01,3,4,31.454696,74.28719,07-20-2019,AG-03,Bilal Chaudhry
+PROP-1125,House,For Rent,Lahore,"Cavalry Ground, Lahore, Punjab",Cavalry Ground,200000,Very High,24.0,6534.02,6,7,31.500556,74.367728,05-25-2019,AG-02,Sana Malik
+PROP-1126,House,For Sale,Lahore,"Lalazaar Garden, Lahore, Punjab",Lalazaar Garden,7200000,Low,3.0,816.75,3,3,31.509067,74.246771,07-11-2019,AG-01,Ahmed Raza
+PROP-1127,House,For Sale,Lahore,"Gulberg, Lahore, Punjab",Gulberg,30000000,High,11.0,2994.76,4,4,31.505678000000003,74.348202,10-06-2018,AG-01,Ahmed Raza
+PROP-1128,House,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,38000,Low,5.0,1361.25,3,0,31.466154,74.29641,05-25-2019,AG-01,Ahmed Raza
+PROP-1129,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,38000000,Very High,20.0,5445.02,0,0,31.462347,74.293642,07-02-2019,AG-02,Sana Malik
+PROP-1130,House,For Sale,Lahore,"Architects Engineers Housing Society, Lahore, Punjab",Architects Engineers Housing Society,13700000,Medium,10.0,2722.51,2,2,31.444298,74.259288,07-15-2019,AG-03,Bilal Chaudhry
+PROP-1131,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,14500000,Medium,5.0,1361.25,3,4,31.462493,74.452372,06-03-2019,AG-03,Bilal Chaudhry
+PROP-1132,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,14000000,Medium,6.0,1633.51,5,5,31.455867,74.274273,06-19-2019,AG-03,Bilal Chaudhry
+PROP-1133,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,175000,High,20.0,5445.02,4,5,31.460919,74.41083,07-23-2019,AG-01,Ahmed Raza
+PROP-1134,House,For Sale,Lahore,"Pak Arab Housing Society, Lahore, Punjab",Pak Arab Housing Society,10000000,Medium,5.0,1361.25,3,0,31.426905,74.341689,07-17-2019,AG-01,Ahmed Raza
+PROP-1135,House,For Sale,Lahore,"Shershah Colony - Raiwind Road, Lahore, Punjab",Shershah Colony - Raiwind Road,5400000,Low,3.0,816.75,2,3,31.410095,74.222553,04-03-2019,AG-01,Ahmed Raza
+PROP-1136,House,For Sale,Lahore,"Eden, Lahore, Punjab",Eden,10500000,Medium,5.0,1361.25,4,5,31.417824,74.282074,07-03-2019,AG-01,Ahmed Raza
+PROP-1137,House,For Sale,Lahore,"Township, Lahore, Punjab",Township,5500000,Low,2.5,680.63,2,0,31.453414,74.31623,07-02-2019,AG-02,Sana Malik
+PROP-1138,House,For Sale,Lahore,"Punjab Govt Employees Society, Lahore, Punjab",Punjab Govt Employees Society,17500000,High,10.0,2722.51,0,0,31.443383,74.286325,02-03-2019,AG-02,Sana Malik
+PROP-1139,House,For Rent,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,115000,High,20.0,5445.02,6,6,31.434522,74.266148,06-26-2019,AG-01,Ahmed Raza
+PROP-1140,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,12900000,Medium,5.0,1361.25,3,4,31.443859000000003,74.44051999999999,06-11-2019,AG-03,Bilal Chaudhry
+PROP-1141,House,For Sale,Lahore,"PIA Housing Scheme, Lahore, Punjab",PIA Housing Scheme,26000000,High,15.0,4083.76,6,7,31.44785,74.278207,07-03-2019,AG-02,Sana Malik
+PROP-1142,House,For Rent,Lahore,"EME Society, Lahore, Punjab",EME Society,99000,High,20.0,5445.02,5,6,31.434668,74.214005,02-24-2019,AG-02,Sana Malik
+PROP-1143,Upper Portion,For Rent,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,35000,Medium,10.0,2722.51,3,3,31.365803000000003,74.190116,01-25-2019,AG-02,Sana Malik
+PROP-1144,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,60000000,Very High,20.0,5445.02,5,5,31.471132,74.445162,05-03-2019,AG-01,Ahmed Raza
+PROP-1145,House,For Sale,Lahore,"Canal Bank Housing Scheme, Lahore, Punjab",Canal Bank Housing Scheme,17000000,High,10.0,2722.51,6,5,31.572434,74.413002,06-11-2019,AG-01,Ahmed Raza
+PROP-1146,House,For Sale,Lahore,"Nasheman-e-Iqbal, Lahore, Punjab",Nasheman-e-Iqbal,8500000,Low,3.0,816.75,3,3,31.433497,74.248853,04-03-2019,AG-01,Ahmed Raza
+PROP-1147,House,For Sale,Lahore,"Lahore, Punjab, Lahore, Punjab","Lahore, Punjab",11000000,Medium,5.0,1361.25,3,3,31.545771394936,74.341328144074,06-20-2019,AG-01,Ahmed Raza
+PROP-1148,House,For Sale,Lahore,"Beacon House Society, Lahore, Punjab",Beacon House Society,17500000,High,20.0,5445.02,4,5,31.361846000000003,74.22123,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1149,House,For Rent,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,45000,Medium,5.0,1361.25,4,5,31.517283000000003,74.282823,06-24-2019,AG-03,Bilal Chaudhry
+PROP-1150,House,For Sale,Lahore,"Harbanspura, Lahore, Punjab",Harbanspura,14000000,Medium,8.0,2178.01,3,4,31.574084000000003,74.421837,08-07-2018,AG-01,Ahmed Raza
+PROP-1151,Upper Portion,For Rent,Lahore,"Lahore Canal Bank Cooperative Housing Society, Lahore, Punjab",Lahore Canal Bank Cooperative Housing Society,42000,High,20.0,5445.02,3,3,31.454132,74.22805600000001,03-26-2019,AG-01,Ahmed Raza
+PROP-1152,House,For Sale,Lahore,"Cantt, Lahore, Punjab",Cantt,12500000,Medium,5.5,1497.38,0,0,31.49858,74.40926999999999,07-03-2019,AG-03,Bilal Chaudhry
+PROP-1153,Flat,For Sale,Lahore,"Shalimar Link Road, Lahore, Punjab",Shalimar Link Road,1027000,Low,1.4,381.15,2,0,31.572526,74.381002,05-04-2019,AG-02,Sana Malik
+PROP-1154,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,14800000,Medium,10.0,2722.51,5,0,31.378774,74.19031600000001,06-25-2019,AG-02,Sana Malik
+PROP-1155,House,For Rent,Lahore,"Tariq Gardens, Lahore, Punjab",Tariq Gardens,50000,Medium,5.0,1361.25,5,5,31.420094,74.254174,04-25-2019,AG-03,Bilal Chaudhry
+PROP-1156,House,For Sale,Lahore,"T & T Aabpara Housing Society, Lahore, Punjab",T & T Aabpara Housing Society,10500000,Medium,10.0,2722.51,3,4,31.413355,74.239926,07-03-2019,AG-02,Sana Malik
+PROP-1157,House,For Sale,Lahore,"Gulshan-e-Ravi, Lahore, Punjab",Gulshan-e-Ravi,24000000,High,8.0,2178.01,6,5,31.547819,74.279809,06-11-2019,AG-01,Ahmed Raza
+PROP-1158,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,57500000,Very High,20.0,5445.02,6,7,31.471571,74.44590600000001,06-30-2019,AG-03,Bilal Chaudhry
+PROP-1159,Lower Portion,For Rent,Lahore,"Johar Town, Lahore, Punjab",Johar Town,20000,Low,5.0,1361.25,1,0,31.462347,74.293642,07-10-2019,AG-02,Sana Malik
+PROP-1160,House,For Sale,Lahore,"Main Canal Bank Road, Lahore, Punjab",Main Canal Bank Road,12000000,Medium,3.0,816.75,3,3,31.583005,74.48240200000001,06-02-2019,AG-03,Bilal Chaudhry
+PROP-1161,House,For Sale,Lahore,"Bahria Nasheman, Lahore, Punjab",Bahria Nasheman,4600000,Low,6.0,1633.51,2,0,31.320354,74.403441,07-16-2019,AG-01,Ahmed Raza
+PROP-1162,House,For Sale,Lahore,"Samanabad, Lahore, Punjab",Samanabad,7500000,Low,2.8,762.3,3,0,31.539206,74.305515,07-11-2019,AG-02,Sana Malik
+PROP-1163,House,For Sale,Lahore,"Chungi Amar Sadhu, Lahore, Punjab",Chungi Amar Sadhu,3700000,Low,3.0,816.75,3,3,31.450925,74.354287,07-18-2019,AG-01,Ahmed Raza
+PROP-1164,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,35000000,Very High,20.0,5445.02,5,5,31.48138,74.38478,06-25-2019,AG-03,Bilal Chaudhry
+PROP-1165,House,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,250000,Very High,20.0,5445.02,5,6,31.459491,74.39529399999999,04-25-2019,AG-01,Ahmed Raza
+PROP-1166,House,For Rent,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,37000,Low,5.0,1361.25,3,4,31.380313,74.18718299999999,07-23-2019,AG-02,Sana Malik
+PROP-1167,House,For Sale,Lahore,"PIA Housing Scheme, Lahore, Punjab",PIA Housing Scheme,22000000,High,10.0,2722.51,5,5,31.446129,74.278986,05-03-2019,AG-01,Ahmed Raza
+PROP-1168,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,11000000,Medium,6.1,1660.73,0,0,31.355396,74.18556,07-11-2019,AG-03,Bilal Chaudhry
+PROP-1169,House,For Sale,Lahore,"Harbanspura Road, Lahore, Punjab",Harbanspura Road,2700000,Low,2.0,544.5,2,0,31.560697,74.42132600000001,06-29-2019,AG-01,Ahmed Raza
+PROP-1170,Flat,For Sale,Lahore,"Gulberg, Lahore, Punjab",Gulberg,17300000,Very High,5.1,1388.48,2,3,31.522361,74.347172,03-04-2019,AG-03,Bilal Chaudhry
+PROP-1171,House,For Sale,Lahore,"Lalazaar Garden, Lahore, Punjab",Lalazaar Garden,7500000,Low,5.0,1361.25,3,3,31.509067,74.246771,07-03-2019,AG-01,Ahmed Raza
+PROP-1172,House,For Sale,Lahore,"Gulshan-e-Lahore, Lahore, Punjab",Gulshan-e-Lahore,18500000,High,10.0,2722.51,5,6,31.426869,74.253674,04-04-2019,AG-01,Ahmed Raza
+PROP-1173,House,For Sale,Lahore,"Gulberg, Lahore, Punjab",Gulberg,19500000,High,7.0,1905.76,4,0,31.522361,74.347172,06-28-2019,AG-03,Bilal Chaudhry
+PROP-1174,House,For Sale,Lahore,"Daroghewala, Lahore, Punjab",Daroghewala,4000000,Low,3.0,816.75,4,3,31.588479,74.400444,12-05-2018,AG-03,Bilal Chaudhry
+PROP-1175,House,For Sale,Lahore,"Gulberg, Lahore, Punjab",Gulberg,42500000,Very High,24.0,6534.02,4,5,31.505678000000003,74.348202,05-04-2019,AG-03,Bilal Chaudhry
+PROP-1176,Upper Portion,For Rent,Lahore,"Military Accounts Housing Society, Lahore, Punjab",Military Accounts Housing Society,40000,Medium,16.0,4356.02,3,0,31.421266,74.28397199999999,07-20-2019,AG-01,Ahmed Raza
+PROP-1177,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,22500000,High,10.0,2722.51,5,5,31.386395,74.18310600000001,07-03-2019,AG-03,Bilal Chaudhry
+PROP-1178,Upper Portion,For Rent,Lahore,"Garden Town, Lahore, Punjab",Garden Town,35000,Medium,20.0,5445.02,2,2,31.492981,74.31246800000001,05-25-2019,AG-02,Sana Malik
+PROP-1179,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,115000000,Very High,40.0,10890.04,5,6,31.483283,74.395723,06-10-2019,AG-02,Sana Malik
+PROP-1180,House,For Sale,Lahore,"Samanabad, Lahore, Punjab",Samanabad,13500000,Medium,5.0,1361.25,5,5,31.539206,74.305515,06-03-2019,AG-03,Bilal Chaudhry
+PROP-1181,House,For Sale,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,21000000,High,10.0,2722.51,4,4,31.435035,74.264131,06-18-2019,AG-01,Ahmed Raza
+PROP-1182,House,For Rent,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,140000,High,20.0,5445.02,5,5,31.375843,74.189715,07-03-2019,AG-02,Sana Malik
+PROP-1183,House,For Sale,Lahore,"Cavalry Ground, Lahore, Punjab",Cavalry Ground,22000000,High,11.0,2994.76,3,3,31.500556,74.367728,06-03-2019,AG-01,Ahmed Raza
+PROP-1184,House,For Sale,Lahore,"Faisal Town, Lahore, Punjab",Faisal Town,22500000,High,10.0,2722.51,5,6,31.478013,74.304285,06-02-2019,AG-01,Ahmed Raza
+PROP-1185,House,For Sale,Lahore,"Ferozepur Road, Lahore, Punjab",Ferozepur Road,8000000,Low,5.0,1361.25,4,5,31.502166,74.333439,06-04-2019,AG-01,Ahmed Raza
+PROP-1186,House,For Sale,Lahore,"Township, Lahore, Punjab",Township,3800000,Low,2.0,544.5,1,1,31.456929,74.30593,06-28-2019,AG-01,Ahmed Raza
+PROP-1187,House,For Sale,Lahore,"Bagarian, Lahore, Punjab",Bagarian,4500000,Low,3.0,816.75,3,3,31.425944,74.295998,12-05-2018,AG-03,Bilal Chaudhry
+PROP-1188,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,61500000,Very High,20.0,5445.02,6,7,31.466007,74.448338,07-15-2019,AG-02,Sana Malik
+PROP-1189,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,45000000,Very High,20.0,5445.02,2,0,31.476915,74.324641,07-13-2019,AG-01,Ahmed Raza
+PROP-1190,House,For Sale,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,17500000,High,10.0,2722.51,3,3,31.436646000000003,74.267135,07-12-2019,AG-03,Bilal Chaudhry
+PROP-1191,House,For Sale,Lahore,"Valencia Housing Society, Lahore, Punjab",Valencia Housing Society,25000000,High,22.0,5989.52,4,4,31.39526,74.260497,07-02-2019,AG-03,Bilal Chaudhry
+PROP-1192,Lower Portion,For Rent,Lahore,"Military Accounts Housing Society, Lahore, Punjab",Military Accounts Housing Society,29000,Medium,8.0,2178.01,2,0,31.421266,74.28397199999999,07-17-2019,AG-02,Sana Malik
+PROP-1193,House,For Sale,Lahore,"Mughalpura, Lahore, Punjab",Mughalpura,5500000,Low,2.5,680.63,3,2,31.563398,74.3891,06-29-2019,AG-02,Sana Malik
+PROP-1194,House,For Sale,Lahore,"Gulshan-e-Ravi, Lahore, Punjab",Gulshan-e-Ravi,16500000,High,10.0,2722.51,5,4,31.551184000000003,74.284058,07-03-2019,AG-02,Sana Malik
+PROP-1195,House,For Sale,Lahore,"Askari, Lahore, Punjab",Askari,30000000,High,20.0,5445.02,4,5,31.460187,74.432459,07-01-2019,AG-03,Bilal Chaudhry
+PROP-1196,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,42500000,Very High,20.0,5445.02,2,3,31.477391,74.313147,08-07-2018,AG-02,Sana Malik
+PROP-1197,House,For Sale,Lahore,"Lalazar, Lahore, Punjab",Lalazar,2800000,Low,2.0,544.5,2,2,31.466167,74.244961,11-05-2018,AG-02,Sana Malik
+PROP-1198,Room,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,30000,Very High,20.0,5445.02,1,1,31.471864700317003,74.391143798828,01-25-2019,AG-03,Bilal Chaudhry
+PROP-1199,House,For Sale,Lahore,"DHA 11 Rahbar, Lahore, Punjab",DHA 11 Rahbar,15000000,Medium,5.0,1361.25,3,4,31.390645000000003,74.252887,06-19-2019,AG-01,Ahmed Raza
+PROP-1200,House,For Sale,Lahore,"Lahore Medical Housing Society, Lahore, Punjab",Lahore Medical Housing Society,11000000,Medium,5.0,1361.25,3,3,31.581899,74.463515,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1201,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,65000000,Very High,20.0,5445.02,5,7,31.461761,74.36834,07-03-2019,AG-01,Ahmed Raza
+PROP-1202,House,For Sale,Lahore,"Bahria Nasheman, Lahore, Punjab",Bahria Nasheman,8200000,Low,5.0,1361.25,3,3,31.320354,74.403441,07-17-2019,AG-01,Ahmed Raza
+PROP-1203,House,For Sale,Lahore,"Lahore Garden Housing Scheme, Lahore, Punjab",Lahore Garden Housing Scheme,4200000,Low,3.0,816.75,3,3,31.590553000000003,74.20822,07-03-2019,AG-01,Ahmed Raza
+PROP-1204,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,28500000,High,10.0,2722.51,3,4,31.494408,74.43766600000001,07-02-2019,AG-02,Sana Malik
+PROP-1205,Lower Portion,For Rent,Lahore,"Allama Iqbal Town, Lahore, Punjab",Allama Iqbal Town,25000,Low,5.0,1361.25,3,0,31.521703,74.298978,07-23-2019,AG-03,Bilal Chaudhry
+PROP-1206,Flat,For Sale,Lahore,"Lalazaar Garden, Lahore, Punjab",Lalazaar Garden,2100000,Low,2.0,544.5,2,2,31.509067,74.246771,09-06-2018,AG-03,Bilal Chaudhry
+PROP-1207,House,For Sale,Lahore,"Township, Lahore, Punjab",Township,9500000,Low,5.0,1361.25,4,2,31.451804,74.310436,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1208,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,10700000,Medium,5.0,1361.25,3,3,31.374757257084,74.176750004963,10-06-2018,AG-03,Bilal Chaudhry
+PROP-1209,House,For Sale,Lahore,"New Muslim Town, Lahore, Punjab",New Muslim Town,80000000,Very High,40.0,10890.04,8,8,31.510965,74.312483,04-04-2019,AG-01,Ahmed Raza
+PROP-1210,Lower Portion,For Rent,Lahore,"Paragon City, Lahore, Punjab",Paragon City,55000,High,10.0,2722.51,0,0,31.534067,74.45394499999999,06-24-2019,AG-02,Sana Malik
+PROP-1211,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,17500000,High,8.0,2178.01,5,4,31.462347,74.293642,04-03-2019,AG-01,Ahmed Raza
+PROP-1212,House,For Sale,Lahore,"Model Town, Lahore, Punjab",Model Town,70000000,Very High,20.0,5445.02,4,4,31.479477000000003,74.33348199999999,01-04-2019,AG-01,Ahmed Raza
+PROP-1213,House,For Sale,Lahore,"Garden Town, Lahore, Punjab",Garden Town,9000000,Low,4.5,1225.13,3,0,31.500007,74.32473399999999,07-16-2019,AG-03,Bilal Chaudhry
+PROP-1214,House,For Sale,Lahore,"Lalazaar Garden, Lahore, Punjab",Lalazaar Garden,6000000,Low,4.4,1197.9,0,0,31.509067,74.246771,07-15-2019,AG-01,Ahmed Raza
+PROP-1215,House,For Sale,Lahore,"Canal Garden, Lahore, Punjab",Canal Garden,11500000,Medium,5.0,1361.25,4,5,31.391909,74.180009,07-21-2019,AG-01,Ahmed Raza
+PROP-1216,House,For Sale,Lahore,"Harbanspura Road, Lahore, Punjab",Harbanspura Road,2300000,Low,2.5,680.63,2,0,31.560697,74.42132600000001,07-03-2019,AG-02,Sana Malik
+PROP-1217,House,For Sale,Lahore,"Multan Road, Lahore, Punjab",Multan Road,3600000,Low,2.0,544.5,3,2,31.431593,74.179974,07-02-2019,AG-02,Sana Malik
+PROP-1218,Lower Portion,For Rent,Lahore,"Walton Road, Lahore, Punjab",Walton Road,25000,Low,4.0,1089.0,2,2,31.477098,74.357271,07-19-2019,AG-02,Sana Malik
+PROP-1219,House,For Sale,Lahore,"Iqbal Park, Lahore, Punjab",Iqbal Park,16500000,High,10.0,2722.51,4,5,31.593305,74.309363,09-06-2018,AG-01,Ahmed Raza
+PROP-1220,House,For Sale,Lahore,"Shalimar Link Road, Lahore, Punjab",Shalimar Link Road,20000000,High,10.0,2722.51,5,5,31.572526,74.381002,07-03-2019,AG-01,Ahmed Raza
+PROP-1221,House,For Sale,Lahore,"Samanabad, Lahore, Punjab",Samanabad,13500000,Medium,4.5,1225.13,4,4,31.539206,74.305515,07-10-2019,AG-01,Ahmed Raza
+PROP-1222,Flat,For Rent,Lahore,"Pak Arab Housing Society, Lahore, Punjab",Pak Arab Housing Society,11000,Low,3.0,816.75,1,1,31.426905,74.341689,06-24-2019,AG-01,Ahmed Raza
+PROP-1223,House,For Sale,Lahore,"Sukh Chayn Gardens, Lahore, Punjab",Sukh Chayn Gardens,14000000,Medium,10.0,2722.51,4,6,31.391744,74.159746,06-02-2019,AG-02,Sana Malik
+PROP-1224,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,75000000,Very High,20.0,5445.02,5,6,31.462493,74.40934200000001,06-18-2019,AG-02,Sana Malik
+PROP-1225,House,For Sale,Lahore,"AWT Army Welfare Trust, Lahore, Punjab",AWT Army Welfare Trust,14500000,Medium,10.0,2722.51,5,6,31.352464,74.207704,06-28-2019,AG-03,Bilal Chaudhry
+PROP-1226,House,For Rent,Lahore,"Gulberg, Lahore, Punjab",Gulberg,160000,High,10.0,2722.51,4,4,31.505678000000003,74.348202,03-26-2019,AG-03,Bilal Chaudhry
+PROP-1227,House,For Sale,Lahore,"Johar Town, Lahore, Punjab",Johar Town,12500000,Medium,5.0,1361.25,5,6,31.452243,74.274702,07-03-2019,AG-01,Ahmed Raza
+PROP-1228,House,For Sale,Lahore,"Ferozepur Road, Lahore, Punjab",Ferozepur Road,12500000,Medium,5.0,1361.25,0,0,31.452568,74.352486,12-05-2018,AG-01,Ahmed Raza
+PROP-1229,House,For Sale,Lahore,"Bahria Town, Lahore, Punjab",Bahria Town,21000000,High,10.0,2722.51,5,6,31.37108,74.19031600000001,06-04-2019,AG-02,Sana Malik
+PROP-1230,House,For Sale,Lahore,"Gulberg, Lahore, Punjab",Gulberg,140000000,Very High,30.0,8167.53,6,4,31.510471000000003,74.350526,07-10-2019,AG-01,Ahmed Raza
+PROP-1231,House,For Rent,Lahore,"Faisal Town, Lahore, Punjab",Faisal Town,160000,High,20.0,5445.02,5,0,31.478013,74.304285,05-25-2019,AG-02,Sana Malik
+PROP-1232,House,For Rent,Lahore,"Lake City, Lahore, Punjab",Lake City,40000,Low,5.0,1361.25,4,2,31.348506,74.253716,07-10-2019,AG-02,Sana Malik
+PROP-1233,House,For Rent,Lahore,"Garden Town, Lahore, Punjab",Garden Town,250000,Very High,40.0,10890.04,3,3,31.503922,74.323135,04-25-2019,AG-03,Bilal Chaudhry
+PROP-1234,House,For Sale,Lahore,"Bahria Nasheman, Lahore, Punjab",Bahria Nasheman,11900000,Medium,11.5,3130.89,0,0,31.320611,74.403269,05-03-2019,AG-03,Bilal Chaudhry
+PROP-1235,House,For Sale,Lahore,"Askari, Lahore, Punjab",Askari,26000000,High,12.0,3267.01,4,4,31.537239000000003,74.420211,06-18-2019,AG-03,Bilal Chaudhry
+PROP-1236,House,For Sale,Lahore,"Canal Garden, Lahore, Punjab",Canal Garden,13500000,Medium,5.0,1361.25,5,6,31.393209,74.17589699999999,04-03-2019,AG-03,Bilal Chaudhry
+PROP-1237,House,For Sale,Lahore,"Hakim Town, Lahore, Punjab",Hakim Town,3200000,Low,2.0,544.5,2,2,31.418273,74.29391899999999,02-03-2019,AG-03,Bilal Chaudhry
+PROP-1238,House,For Sale,Lahore,"State Life Housing Society, Lahore, Punjab",State Life Housing Society,25500000,High,20.0,5445.02,4,6,31.446824,74.404736,07-10-2019,AG-01,Ahmed Raza
+PROP-1239,House,For Rent,Lahore,"EME Society, Lahore, Punjab",EME Society,70000,Medium,10.0,2722.51,4,4,31.447044,74.21109399999999,07-18-2019,AG-03,Bilal Chaudhry
+PROP-1240,House,For Rent,Lahore,"Wapda Town, Lahore, Punjab",Wapda Town,70000,Medium,10.0,2722.51,5,5,31.435035,74.264131,07-22-2019,AG-01,Ahmed Raza
+PROP-1241,House,For Rent,Lahore,"Shahdara, Lahore, Punjab",Shahdara,26000,Low,5.0,1361.25,3,3,31.626564,74.281826,05-25-2019,AG-01,Ahmed Raza
+PROP-1242,House,For Sale,Lahore,"DHA 11 Rahbar, Lahore, Punjab",DHA 11 Rahbar,10800000,Medium,5.0,1361.25,3,3,31.383519,74.277767,06-02-2019,AG-02,Sana Malik
+PROP-1243,House,For Rent,Lahore,"Sabzazar Scheme, Lahore, Punjab",Sabzazar Scheme,40000,Low,5.0,1361.25,4,4,31.515337,74.264045,07-24-2019,AG-02,Sana Malik
+PROP-1244,House,For Sale,Lahore,"Band Road, Lahore, Punjab",Band Road,9000000,Low,5.0,1361.25,4,0,31.537286,74.273314,06-26-2019,AG-03,Bilal Chaudhry
+PROP-1245,House,For Sale,Lahore,"Formanites Housing Scheme, Lahore, Punjab",Formanites Housing Scheme,12500000,Medium,10.0,2722.51,2,2,31.444911,74.42535500000001,07-01-2019,AG-02,Sana Malik
+PROP-1246,House,For Sale,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,125000000,Very High,40.0,10890.04,6,8,31.470949,74.375038,04-04-2019,AG-01,Ahmed Raza
+PROP-1247,House,For Sale,Lahore,"PCSIR Staff Colony, Lahore, Punjab",PCSIR Staff Colony,17500000,High,16.0,4356.02,0,0,31.431932,74.282063,07-11-2019,AG-01,Ahmed Raza
+PROP-1248,Lower Portion,For Rent,Lahore,"DHA Defence, Lahore, Punjab",DHA Defence,110000,Very High,20.0,5445.02,2,3,31.48116,74.45679200000001,02-24-2019,AG-03,Bilal Chaudhry
+PROP-1249,Upper Portion,For Rent,Lahore,"Model Town, Lahore, Punjab",Model Town,65000,Very High,20.0,5445.02,3,3,31.483283,74.335728,04-25-2019,AG-03,Bilal Chaudhry
+PROP-1250,Lower Portion,For Rent,Islamabad,"G-10, Islamabad, Islamabad Capital",G-10,80000,Very High,20.0,5445.02,3,3,33.686139000000004,73.018134,06-17-2019,AG-04,Ayesha Farooq
+PROP-1251,House,For Sale,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,5200000,Low,3.0,816.75,0,0,33.619337,73.125315,11-06-2018,AG-05,Usman Tariq
+PROP-1252,Upper Portion,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,42000,High,12.0,3267.01,0,0,33.636846000000006,72.92276899999999,07-22-2019,AG-04,Ayesha Farooq
+PROP-1253,House,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,30000000,High,20.0,5445.02,5,5,33.526227,73.15298100000001,07-01-2019,AG-06,Hina Shaikh
+PROP-1254,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,30000,Medium,5.3,1442.93,2,2,33.689756,72.9789,06-27-2019,AG-05,Usman Tariq
+PROP-1255,Lower Portion,For Rent,Islamabad,"D-12, Islamabad, Islamabad Capital",D-12,65000,Very High,10.0,2722.51,3,3,33.697565000000004,72.944241,07-03-2019,AG-05,Usman Tariq
+PROP-1256,House,For Sale,Islamabad,"G-10, Islamabad, Islamabad Capital",G-10,25000000,High,6.0,1633.51,5,4,33.671890000000005,73.012254,06-03-2019,AG-04,Ayesha Farooq
+PROP-1257,Lower Portion,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,40000,High,14.0,3811.51,3,3,33.650065000000005,72.96368100000001,06-13-2019,AG-04,Ayesha Farooq
+PROP-1258,Flat,For Sale,Islamabad,"Gulberg, Islamabad, Islamabad Capital",Gulberg,32400000,Very High,15.1,4110.99,3,0,33.609649,73.18152099999999,03-06-2019,AG-04,Ayesha Farooq
+PROP-1259,Flat,For Sale,Islamabad,"Others, Islamabad, Islamabad Capital",Others,6600000,Medium,4.0,1089.0,2,2,33.7294,73.0931,06-12-2019,AG-05,Usman Tariq
+PROP-1260,Lower Portion,For Rent,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",National Police Foundation O-9,40000,High,10.0,2722.51,2,2,33.570792,73.13251,07-09-2019,AG-06,Hina Shaikh
+PROP-1261,Flat,For Sale,Islamabad,"F-8, Islamabad, Islamabad Capital",F-8,32500000,Very High,5.1,1388.48,2,3,33.713131,73.038383,05-04-2019,AG-05,Usman Tariq
+PROP-1262,Upper Portion,For Rent,Islamabad,"F-8, Islamabad, Islamabad Capital",F-8,300000,Very High,80.0,21780.08,3,4,33.713131,73.038383,06-04-2019,AG-06,Hina Shaikh
+PROP-1263,House,For Rent,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",Bani Gala,60000,Medium,10.0,2722.51,4,6,33.713488,73.16268000000001,06-30-2019,AG-04,Ayesha Farooq
+PROP-1264,Flat,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,16500000,Very High,10.0,2722.51,3,4,33.539071,73.15633299999999,03-06-2019,AG-06,Hina Shaikh
+PROP-1265,House,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,202000,Very High,26.0,7078.53,6,6,33.683532,72.99041,07-16-2019,AG-06,Hina Shaikh
+PROP-1266,Lower Portion,For Rent,Islamabad,"Pakistan Town, Islamabad, Islamabad Capital",Pakistan Town,20000,Low,5.0,1361.25,2,2,33.575405,73.143325,02-04-2019,AG-06,Hina Shaikh
+PROP-1267,House,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,60000,Medium,8.0,2178.01,5,4,33.626913,72.924328,06-30-2019,AG-04,Ayesha Farooq
+PROP-1268,Upper Portion,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,62000,Very High,20.0,5445.02,3,3,33.689281463623,72.98896026611301,06-16-2019,AG-05,Usman Tariq
+PROP-1269,House,For Sale,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,15200000,Medium,4.4,1197.9,4,5,33.650065000000005,72.96368100000001,07-04-2019,AG-05,Usman Tariq
+PROP-1270,Lower Portion,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,40000,High,14.0,3811.51,3,3,33.626913,72.924328,12-06-2018,AG-04,Ayesha Farooq
+PROP-1271,Lower Portion,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,40000,High,12.0,3267.01,4,4,33.631485999999995,72.926559,07-24-2019,AG-06,Hina Shaikh
+PROP-1272,House,For Sale,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,15200000,Medium,4.4,1197.9,4,5,33.645957,72.96247199999999,07-04-2019,AG-05,Usman Tariq
+PROP-1273,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,15000000,Medium,6.0,1633.51,2,2,33.642563,73.03599399999999,07-11-2019,AG-04,Ayesha Farooq
+PROP-1274,House,For Sale,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,31500000,High,7.0,1905.76,5,5,33.669533,73.000073,07-17-2019,AG-05,Usman Tariq
+PROP-1275,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,500000,Very High,26.0,7078.53,5,5,33.730907,73.074431,07-24-2019,AG-04,Ayesha Farooq
+PROP-1276,Lower Portion,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,50000,High,14.2,3865.96,5,5,33.671640000000004,72.99165500000001,05-18-2019,AG-05,Usman Tariq
+PROP-1277,House,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,20000,Low,4.0,1089.0,2,2,33.61855,73.135471,07-13-2019,AG-06,Hina Shaikh
+PROP-1278,Upper Portion,For Rent,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",Bani Gala,21000,Low,5.0,1361.25,0,0,33.713488,73.16268000000001,01-05-2019,AG-04,Ayesha Farooq
+PROP-1279,Flat,For Sale,Islamabad,"Gulberg, Islamabad, Islamabad Capital",Gulberg,9900000,High,4.9,1334.03,0,0,33.606327,73.15983299999999,06-27-2019,AG-06,Hina Shaikh
+PROP-1280,Lower Portion,For Rent,Islamabad,"Simly Dam Road, Islamabad, Islamabad Capital",Simly Dam Road,50000,High,20.0,5445.02,4,4,33.714845000000004,73.23871199999999,12-06-2018,AG-06,Hina Shaikh
+PROP-1281,Flat,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,17000,Low,2.0,544.5,2,2,33.631701,72.92139499999999,01-05-2019,AG-05,Usman Tariq
+PROP-1282,Upper Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,85000,Very High,20.0,5445.02,4,4,33.690353,73.010416,05-05-2019,AG-05,Usman Tariq
+PROP-1283,House,For Sale,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",Soan Garden,7600000,Low,6.7,1824.08,2,2,33.554271,73.155599,06-26-2019,AG-06,Hina Shaikh
+PROP-1284,House,For Sale,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,90000000,Very High,26.0,7078.53,5,5,33.691531,73.005431,07-01-2019,AG-04,Ayesha Farooq
+PROP-1285,House,For Rent,Islamabad,"G-6, Islamabad, Islamabad Capital",G-6,300000,Very High,26.0,7078.53,9,10,33.720592,73.089466,09-07-2018,AG-06,Hina Shaikh
+PROP-1286,Lower Portion,For Rent,Islamabad,"G-6, Islamabad, Islamabad Capital",G-6,80000,Very High,20.0,5445.02,3,2,33.712738,73.092127,06-27-2019,AG-04,Ayesha Farooq
+PROP-1287,House,For Sale,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,26500000,High,7.0,1905.76,5,4,33.663818,72.99526,06-27-2019,AG-04,Ayesha Farooq
+PROP-1288,Lower Portion,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,15000,Low,4.0,1089.0,2,2,33.619337,73.125315,06-20-2019,AG-04,Ayesha Farooq
+PROP-1289,House,For Sale,Islamabad,"G-8, Islamabad, Islamabad Capital",G-8,26500000,High,5.0,1361.25,0,0,33.698065,73.044612,01-05-2019,AG-06,Hina Shaikh
+PROP-1290,Upper Portion,For Rent,Islamabad,"D-12, Islamabad, Islamabad Capital",D-12,85000,Very High,24.0,6534.02,0,0,33.701636,72.948532,07-13-2019,AG-04,Ayesha Farooq
+PROP-1291,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,40000,High,8.0,2178.01,3,3,33.698137,72.978215,06-20-2019,AG-05,Usman Tariq
+PROP-1292,Lower Portion,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,58000,High,10.0,2722.51,3,3,33.683532,72.99041,02-04-2019,AG-05,Usman Tariq
+PROP-1293,House,For Sale,Islamabad,"H-13, Islamabad, Islamabad Capital",H-13,14000000,Medium,7.0,1905.76,3,3,33.637489,72.972193,07-11-2019,AG-06,Hina Shaikh
+PROP-1294,Flat,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,25000,Low,10.4,2831.41,3,3,33.636846000000006,72.92276899999999,06-29-2019,AG-05,Usman Tariq
+PROP-1295,Lower Portion,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,23000,Low,4.0,1089.0,0,0,33.645957,72.96247199999999,03-06-2019,AG-05,Usman Tariq
+PROP-1296,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,350000,Very High,48.0,13068.05,6,6,33.730907,73.074431,07-10-2019,AG-06,Hina Shaikh
+PROP-1297,Upper Portion,For Rent,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,70000,Very High,12.0,3267.01,3,3,33.662782,73.077793,06-27-2019,AG-06,Hina Shaikh
+PROP-1298,Upper Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,38000,Medium,6.7,1824.08,2,2,33.698137,72.978215,06-04-2019,AG-06,Hina Shaikh
+PROP-1299,House,For Sale,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,23000000,High,8.0,2178.01,0,0,33.650065000000005,72.96368100000001,03-06-2019,AG-05,Usman Tariq
+PROP-1300,Lower Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,107000,Very High,26.0,7078.53,3,3,33.691531,73.005431,06-29-2019,AG-05,Usman Tariq
+PROP-1301,Flat,For Sale,Islamabad,"B-17, Islamabad, Islamabad Capital",B-17,1455000,Low,4.3,1170.68,2,2,33.680640000000004,72.822189,07-17-2019,AG-05,Usman Tariq
+PROP-1302,House,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,340000,Very High,24.0,6534.02,6,6,33.720413,73.056493,07-02-2019,AG-06,Hina Shaikh
+PROP-1303,Upper Portion,For Rent,Islamabad,"Pakistan Town, Islamabad, Islamabad Capital",Pakistan Town,29000,Medium,10.0,2722.51,3,3,33.575405,73.143325,07-03-2019,AG-04,Ayesha Farooq
+PROP-1304,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,11000000,Medium,5.0,1361.25,3,3,33.692638,73.218813,06-26-2019,AG-06,Hina Shaikh
+PROP-1305,House,For Sale,Islamabad,"Margalla Town, Islamabad, Islamabad Capital",Margalla Town,22000000,High,8.0,2178.01,5,4,33.672515000000004,73.106276,03-06-2019,AG-06,Hina Shaikh
+PROP-1306,Lower Portion,For Rent,Islamabad,"G-14, Islamabad, Islamabad Capital",G-14,23000,Low,5.0,1361.25,3,2,33.641955,72.952859,01-05-2019,AG-04,Ayesha Farooq
+PROP-1307,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,115000,Very High,16.0,4356.02,4,5,33.698137,72.978215,07-02-2019,AG-05,Usman Tariq
+PROP-1308,Flat,For Sale,Islamabad,"B-17, Islamabad, Islamabad Capital",B-17,4200000,Low,3.0,816.75,2,0,33.679485,72.825775,07-04-2019,AG-06,Hina Shaikh
+PROP-1309,House,For Rent,Islamabad,"Naval Anchorage, Islamabad, Islamabad Capital",Naval Anchorage,85000,High,20.0,5445.02,4,6,33.571007,73.203743,06-27-2019,AG-04,Ayesha Farooq
+PROP-1310,House,For Sale,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,62500000,Very High,14.2,3865.96,0,0,33.667640000000006,73.06594799999999,07-02-2019,AG-05,Usman Tariq
+PROP-1311,House,For Sale,Islamabad,"CBR Town, Islamabad, Islamabad Capital",CBR Town,24000000,High,14.0,3811.51,6,7,33.559383392334,73.141265869141,06-13-2019,AG-04,Ayesha Farooq
+PROP-1312,Flat,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,18200000,Very High,10.0,2722.51,3,3,33.538087,73.164536,02-04-2019,AG-04,Ayesha Farooq
+PROP-1313,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,35000,Medium,5.0,1361.25,2,2,33.698137,72.978215,07-17-2019,AG-06,Hina Shaikh
+PROP-1314,Upper Portion,For Rent,Islamabad,"Naval Anchorage, Islamabad, Islamabad Capital",Naval Anchorage,35000,Medium,12.0,3267.01,3,3,33.571007,73.203743,07-04-2019,AG-04,Ayesha Farooq
+PROP-1315,House,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,65000000,Very High,17.8,4846.07,5,5,33.679210999999995,72.988787,05-04-2019,AG-05,Usman Tariq
+PROP-1316,House,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,76800000,Very High,26.0,7078.53,10,10,33.683532,72.99041,05-05-2019,AG-06,Hina Shaikh
+PROP-1317,House,For Sale,Islamabad,"G-8, Islamabad, Islamabad Capital",G-8,20000000,High,5.0,1361.25,3,3,33.698065,73.044612,07-17-2019,AG-06,Hina Shaikh
+PROP-1318,Flat,For Rent,Islamabad,"G-9, Islamabad, Islamabad Capital",G-9,45000,High,1.6,435.6,0,0,33.68771,73.034227,07-22-2019,AG-05,Usman Tariq
+PROP-1319,Lower Portion,For Rent,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,22000,Low,4.4,1197.9,0,0,33.642563,73.03599399999999,06-04-2019,AG-05,Usman Tariq
+PROP-1320,Upper Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,50000,High,22.0,5989.52,2,2,33.691781,73.000288,06-20-2019,AG-04,Ayesha Farooq
+PROP-1321,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,23500000,High,10.0,2722.51,5,6,33.679226,73.20823399999999,07-11-2019,AG-05,Usman Tariq
+PROP-1322,House,For Sale,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,80000000,Very High,22.0,5989.52,4,4,33.724018,73.074524,06-13-2019,AG-05,Usman Tariq
+PROP-1323,House,For Sale,Islamabad,"Korang Town, Islamabad, Islamabad Capital",Korang Town,24000000,High,12.0,3267.01,7,7,33.579034,73.13959100000001,06-26-2019,AG-04,Ayesha Farooq
+PROP-1324,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,28500000,High,10.0,2722.51,0,0,33.695972999999995,73.215615,11-06-2018,AG-06,Hina Shaikh
+PROP-1325,House,For Sale,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,90000000,Very High,20.0,5445.02,5,5,33.691781,73.000288,06-19-2019,AG-06,Hina Shaikh
+PROP-1326,Upper Portion,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,25000,Low,7.0,1905.76,3,3,33.61855,73.135471,07-16-2019,AG-04,Ayesha Farooq
+PROP-1327,House,For Sale,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,46000000,Very High,14.2,3865.96,3,3,33.668496999999995,73.07415999999999,06-20-2019,AG-06,Hina Shaikh
+PROP-1328,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,400000,Very High,40.0,10890.04,4,4,33.731334999999994,73.068473,07-16-2019,AG-04,Ayesha Farooq
+PROP-1329,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,15500000,Medium,10.0,2722.51,5,6,33.550837268049,73.10628890991201,06-29-2019,AG-05,Usman Tariq
+PROP-1330,Upper Portion,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,160000,Very High,20.0,5445.02,3,3,33.720413,73.056493,02-04-2019,AG-06,Hina Shaikh
+PROP-1331,House,For Rent,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",National Police Foundation O-9,38000,Low,5.0,1361.25,3,0,33.570792,73.13251,07-24-2019,AG-05,Usman Tariq
+PROP-1332,Flat,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,34000,Medium,3.3,898.43,1,1,33.683532,72.99041,06-20-2019,AG-05,Usman Tariq
+PROP-1333,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,25000000,High,10.0,2722.51,4,5,33.692638,73.218813,04-05-2019,AG-04,Ayesha Farooq
+PROP-1334,House,For Rent,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",Bani Gala,42000,Medium,10.0,2722.51,4,4,33.713488,73.16268000000001,04-05-2019,AG-05,Usman Tariq
+PROP-1335,Flat,For Rent,Islamabad,"F-8, Islamabad, Islamabad Capital",F-8,200000,Very High,10.0,2722.51,3,4,33.707982,73.050476,07-17-2019,AG-05,Usman Tariq
+PROP-1336,House,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,75000,Medium,20.0,5445.02,5,5,33.527944,73.161392,04-05-2019,AG-06,Hina Shaikh
+PROP-1337,House,For Sale,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,85000000,Very High,16.0,4356.02,7,7,33.730907,73.074431,07-02-2019,AG-05,Usman Tariq
+PROP-1338,Upper Portion,For Rent,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,55000,High,22.0,5989.52,3,3,33.668496999999995,73.07415999999999,04-05-2019,AG-04,Ayesha Farooq
+PROP-1339,House,For Sale,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,70000000,Very High,20.0,5445.02,0,0,33.686996,73.003721,05-04-2019,AG-06,Hina Shaikh
+PROP-1340,Flat,For Sale,Islamabad,"B-17, Islamabad, Islamabad Capital",B-17,3500000,Low,3.0,816.75,2,2,33.680640000000004,72.822189,02-04-2019,AG-05,Usman Tariq
+PROP-1341,House,For Sale,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,57500000,Very High,14.0,3811.51,6,6,33.671640000000004,72.99165500000001,07-01-2019,AG-04,Ayesha Farooq
+PROP-1342,Upper Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,72000,Very High,22.0,5989.52,3,3,33.691781,73.000288,07-09-2019,AG-04,Ayesha Farooq
+PROP-1343,House,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,220000,Very High,20.0,5445.02,5,6,33.683532714844,72.990409851074,12-06-2018,AG-05,Usman Tariq
+PROP-1344,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,40000000,Very High,20.0,5445.02,6,6,33.689546,73.219049,07-03-2019,AG-04,Ayesha Farooq
+PROP-1345,Flat,For Rent,Islamabad,"PWD Housing Scheme, Islamabad, Islamabad Capital",PWD Housing Scheme,18000,Low,3.0,816.75,3,3,33.570792,73.145256,12-06-2018,AG-06,Hina Shaikh
+PROP-1346,House,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,185000,Very High,20.0,5445.02,5,5,33.691531,73.005431,04-05-2019,AG-05,Usman Tariq
+PROP-1347,House,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,20000000,High,11.0,2994.76,0,0,33.508481,73.091826,06-03-2019,AG-04,Ayesha Farooq
+PROP-1348,Upper Portion,For Rent,Islamabad,"G-10, Islamabad, Islamabad Capital",G-10,60000,High,14.2,3865.96,3,2,33.676103999999995,73.01384200000001,06-29-2019,AG-04,Ayesha Farooq
+PROP-1349,House,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,23000,Low,5.0,1361.25,0,0,33.527944,73.161392,06-27-2019,AG-04,Ayesha Farooq
+PROP-1350,Flat,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,35000,Medium,4.0,1089.0,2,2,33.667854,73.003843,06-30-2019,AG-05,Usman Tariq
+PROP-1351,House,For Rent,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,80000,High,20.0,5445.02,5,0,33.698471999999995,73.223812,01-05-2019,AG-05,Usman Tariq
+PROP-1352,House,For Rent,Islamabad,"Shehzad Town, Islamabad, Islamabad Capital",Shehzad Town,32000,Low,8.0,2178.01,2,2,33.671872,73.14027800000001,04-05-2019,AG-04,Ayesha Farooq
+PROP-1353,House,For Sale,Islamabad,"G-9, Islamabad, Islamabad Capital",G-9,25000000,High,5.6,1524.61,4,6,33.686496000000005,73.039076,06-30-2019,AG-06,Hina Shaikh
+PROP-1354,Flat,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,3700000,Low,2.4,653.4,1,0,33.692638,73.218813,05-05-2019,AG-04,Ayesha Farooq
+PROP-1355,Lower Portion,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,35000,Medium,5.6,1524.61,2,2,33.675604,73.000367,04-05-2019,AG-05,Usman Tariq
+PROP-1356,Flat,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,55000,High,9.4,2559.16,1,2,33.679210999999995,72.988787,07-02-2019,AG-04,Ayesha Farooq
+PROP-1357,Upper Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,80000,Very High,20.0,5445.02,0,0,33.691531,73.005431,07-22-2019,AG-04,Ayesha Farooq
+PROP-1358,Lower Portion,For Rent,Islamabad,"D-12, Islamabad, Islamabad Capital",D-12,95000,Very High,20.0,5445.02,0,0,33.701636,72.948532,06-13-2019,AG-05,Usman Tariq
+PROP-1359,Flat,For Sale,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,35000000,Very High,7.8,2123.56,3,3,33.691065,73.016382,07-17-2019,AG-05,Usman Tariq
+PROP-1360,Upper Portion,For Rent,Islamabad,"F-8, Islamabad, Islamabad Capital",F-8,140000,Very High,26.0,7078.53,3,3,33.716665,73.042209,04-05-2019,AG-05,Usman Tariq
+PROP-1361,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,40000,High,5.3,1442.93,2,2,33.698244,72.984238,06-28-2019,AG-04,Ayesha Farooq
+PROP-1362,Flat,For Rent,Islamabad,"D-17, Islamabad, Islamabad Capital",D-17,10000,Low,2.2,598.95,0,0,33.659746000000005,72.860341,07-12-2019,AG-05,Usman Tariq
+PROP-1363,House,For Sale,Islamabad,"Simly Dam Road, Islamabad, Islamabad Capital",Simly Dam Road,3400000,Low,5.0,1361.25,2,3,33.714845000000004,73.23871199999999,04-04-2019,AG-05,Usman Tariq
+PROP-1364,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,50000,High,3.3,898.43,0,0,33.698137,72.978215,07-11-2019,AG-06,Hina Shaikh
+PROP-1365,House,For Rent,Islamabad,"F-15, Islamabad, Islamabad Capital",F-15,80000,High,14.0,3811.51,6,6,33.646493,72.919521,05-05-2019,AG-06,Hina Shaikh
+PROP-1366,House,For Rent,Islamabad,"E-7, Islamabad, Islamabad Capital",E-7,600000,Very High,20.0,5445.02,8,8,33.727409,73.04758100000001,07-02-2019,AG-05,Usman Tariq
+PROP-1367,House,For Sale,Islamabad,"G-7, Islamabad, Islamabad Capital",G-7,57500000,Very High,22.0,5989.52,0,0,33.705313000000004,73.067193,05-05-2019,AG-06,Hina Shaikh
+PROP-1368,House,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,815000,Very High,40.0,10890.04,7,7,33.716273,73.056235,07-12-2019,AG-05,Usman Tariq
+PROP-1369,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,17500000,High,6.7,1824.08,5,0,33.646421000000004,73.045263,01-05-2019,AG-06,Hina Shaikh
+PROP-1370,Flat,For Sale,Islamabad,"D-17, Islamabad, Islamabad Capital",D-17,4200000,Low,4.7,1279.58,3,0,33.659746000000005,72.860341,07-04-2019,AG-06,Hina Shaikh
+PROP-1371,House,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,110000,High,11.0,2994.76,3,4,33.508481,73.091826,08-08-2018,AG-05,Usman Tariq
+PROP-1372,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,19900000,High,8.0,2178.01,4,5,33.692638,73.218813,07-22-2019,AG-05,Usman Tariq
+PROP-1373,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,33000,Medium,6.0,1633.51,3,3,33.698244,72.984238,08-08-2018,AG-04,Ayesha Farooq
+PROP-1374,House,For Sale,Islamabad,"Zaraj Housing Scheme, Islamabad, Islamabad Capital",Zaraj Housing Scheme,23500000,High,12.4,3375.91,0,0,33.513454,73.151522,05-05-2019,AG-04,Ayesha Farooq
+PROP-1375,Flat,For Sale,Islamabad,"Gulberg, Islamabad, Islamabad Capital",Gulberg,7600000,High,4.0,1089.0,1,0,33.60983,73.17013299999999,06-03-2019,AG-05,Usman Tariq
+PROP-1376,House,For Sale,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,102500000,Very High,17.8,4846.07,8,8,33.730907,73.074431,06-03-2019,AG-06,Hina Shaikh
+PROP-1377,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,90000,Very High,20.0,5445.02,3,3,33.704599,72.978702,06-04-2019,AG-04,Ayesha Farooq
+PROP-1378,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,22000,Low,2.2,598.95,1,1,33.699958,72.970119,07-12-2019,AG-06,Hina Shaikh
+PROP-1379,Flat,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,24000,Low,4.9,1334.03,2,4,33.5244025,73.1469834,07-01-2019,AG-06,Hina Shaikh
+PROP-1380,House,For Sale,Islamabad,"Faisal Town - F-18, Islamabad, Islamabad Capital",Faisal Town - F-18,15000000,Medium,7.0,1905.76,4,4,33.616692,72.85899599999999,06-19-2019,AG-05,Usman Tariq
+PROP-1381,House,For Sale,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,86500000,Very High,20.0,5445.02,0,0,33.720413,73.056493,06-19-2019,AG-06,Hina Shaikh
+PROP-1382,Flat,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,5850000,Medium,4.0,1089.0,2,0,33.692638,73.218813,11-06-2018,AG-05,Usman Tariq
+PROP-1383,Flat,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,22000,Low,3.1,843.98,2,2,33.516701,73.107553,05-05-2019,AG-05,Usman Tariq
+PROP-1384,House,For Sale,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,16000000,Medium,7.0,1905.76,0,0,33.619335,73.12531,07-04-2019,AG-06,Hina Shaikh
+PROP-1385,House,For Sale,Islamabad,"G-10, Islamabad, Islamabad Capital",G-10,25000000,High,8.0,2178.01,4,0,33.676103999999995,73.01384200000001,07-15-2019,AG-06,Hina Shaikh
+PROP-1386,Flat,For Rent,Islamabad,"Diplomatic Enclave, Islamabad, Islamabad Capital",Diplomatic Enclave,50000,High,3.6,980.1,1,1,33.728873,73.119628,03-06-2019,AG-04,Ayesha Farooq
+PROP-1387,House,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,13000,Low,3.0,816.75,2,2,33.619337,73.125315,04-05-2019,AG-06,Hina Shaikh
+PROP-1388,Upper Portion,For Rent,Islamabad,"Korang Road, Islamabad, Islamabad Capital",Korang Road,28000,Medium,12.0,3267.01,3,0,33.647328,73.037486,04-05-2019,AG-04,Ayesha Farooq
+PROP-1389,House,For Sale,Islamabad,"FECHS, Islamabad, Islamabad Capital",FECHS,6300000,Low,7.0,1905.76,3,3,33.572044,73.17508000000001,01-05-2019,AG-05,Usman Tariq
+PROP-1390,House,For Sale,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",National Police Foundation O-9,17000000,High,10.0,2722.51,5,5,33.570792,73.13251,05-25-2019,AG-05,Usman Tariq
+PROP-1391,House,For Sale,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",Soan Garden,14000000,Medium,6.7,1824.08,4,6,33.564427,73.157101,05-05-2019,AG-04,Ayesha Farooq
+PROP-1392,House,For Sale,Islamabad,"CBR Town, Islamabad, Islamabad Capital",CBR Town,15000000,Medium,8.0,2178.01,4,4,33.55951,73.142402,05-04-2019,AG-04,Ayesha Farooq
+PROP-1393,House,For Sale,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",National Police Foundation O-9,16000000,Medium,10.0,2722.51,5,6,33.570792,73.13251,04-05-2019,AG-05,Usman Tariq
+PROP-1394,Flat,For Rent,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,70000,Very High,4.9,1334.03,2,2,33.667211,73.075476,06-27-2019,AG-04,Ayesha Farooq
+PROP-1395,Upper Portion,For Rent,Islamabad,"7th Avenue, Islamabad, Islamabad Capital",7th Avenue,65000,Very High,10.0,2722.51,3,2,33.718646,73.070927,07-04-2019,AG-04,Ayesha Farooq
+PROP-1396,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,70000,Very High,8.0,2178.01,3,3,33.698137,72.978215,06-27-2019,AG-04,Ayesha Farooq
+PROP-1397,House,For Rent,Islamabad,"G-6, Islamabad, Islamabad Capital",G-6,1300000,Very High,48.0,13068.05,11,10,33.713238,73.084788,07-02-2019,AG-06,Hina Shaikh
+PROP-1398,House,For Sale,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,15500000,Medium,4.0,1089.0,3,3,33.645957,72.96247199999999,11-06-2018,AG-04,Ayesha Farooq
+PROP-1399,Flat,For Sale,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,2500000,Low,3.0,816.75,2,2,33.631701,72.92139499999999,08-08-2018,AG-05,Usman Tariq
+PROP-1400,House,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,55000,Medium,4.4,1197.9,4,5,33.645957,72.96247199999999,06-27-2019,AG-04,Ayesha Farooq
+PROP-1401,House,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,43000000,Very High,20.0,5445.02,0,0,33.536815999999995,73.166542,02-04-2019,AG-06,Hina Shaikh
+PROP-1402,House,For Sale,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",Bani Gala,8300000,Low,5.0,1361.25,0,0,33.713488,73.16268000000001,07-16-2019,AG-06,Hina Shaikh
+PROP-1403,House,For Sale,Islamabad,"Kuri Road, Islamabad, Islamabad Capital",Kuri Road,12000000,Medium,5.0,1361.25,4,4,33.678171,73.162161,05-04-2019,AG-06,Hina Shaikh
+PROP-1404,Flat,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,28500000,Very High,10.1,2749.74,3,4,33.683532,72.99041,05-04-2019,AG-06,Hina Shaikh
+PROP-1405,Upper Portion,For Rent,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,23000,Low,4.0,1089.0,2,1,33.642563,73.03599399999999,07-18-2019,AG-05,Usman Tariq
+PROP-1406,House,For Sale,Islamabad,"Bhara kahu, Islamabad, Islamabad Capital",Bhara kahu,51500000,Very High,28.0,7623.03,12,10,33.737402,73.179159,09-07-2018,AG-04,Ayesha Farooq
+PROP-1407,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,17500000,High,6.0,1633.51,5,4,33.648922,73.038969,11-06-2018,AG-06,Hina Shaikh
+PROP-1408,House,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,140000,High,10.0,2722.51,0,0,33.698137,72.978215,07-10-2019,AG-04,Ayesha Farooq
+PROP-1409,House,For Sale,Islamabad,"Pakistan Town, Islamabad, Islamabad Capital",Pakistan Town,11500000,Medium,5.0,1361.25,5,5,33.575405,73.143325,06-19-2019,AG-04,Ayesha Farooq
+PROP-1410,Flat,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,4720000,Medium,4.2,1143.45,2,2,33.527944,73.161392,07-13-2019,AG-05,Usman Tariq
+PROP-1411,House,For Rent,Islamabad,"Bani Gala, Islamabad, Islamabad Capital",Bani Gala,44000,Medium,10.0,2722.51,0,0,33.713488,73.16268000000001,01-05-2019,AG-05,Usman Tariq
+PROP-1412,House,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,350000,Very High,20.0,5445.02,4,5,33.72334,73.051171,07-21-2019,AG-04,Ayesha Farooq
+PROP-1413,Lower Portion,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,150000,Very High,20.0,5445.02,0,0,33.730907,73.074431,03-06-2019,AG-06,Hina Shaikh
+PROP-1414,House,For Sale,Islamabad,"Bhara kahu, Islamabad, Islamabad Capital",Bhara kahu,12000000,Medium,8.0,2178.01,4,4,33.737402,73.179159,02-04-2019,AG-04,Ayesha Farooq
+PROP-1415,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,24000000,High,10.0,2722.51,4,5,33.521732,73.12952299999999,12-06-2018,AG-05,Usman Tariq
+PROP-1416,House,For Rent,Islamabad,"Khayaban-e-Iqbal, Islamabad, Islamabad Capital",Khayaban-e-Iqbal,700000,Very High,68.0,18513.07,6,7,33.699261,73.00048100000001,06-17-2019,AG-06,Hina Shaikh
+PROP-1417,House,For Sale,Islamabad,"National Police Foundation O-9, Islamabad, Islamabad Capital",National Police Foundation O-9,7500000,Low,5.0,1361.25,3,0,33.570792,73.13251,07-09-2019,AG-06,Hina Shaikh
+PROP-1418,Upper Portion,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,35000,Medium,10.0,2722.51,2,3,33.532523,73.163452,05-05-2019,AG-04,Ayesha Farooq
+PROP-1419,House,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,17000,Low,5.0,1361.25,2,3,33.61855,73.135471,09-07-2018,AG-04,Ayesha Farooq
+PROP-1420,Lower Portion,For Rent,Islamabad,"Madina Town, Islamabad, Islamabad Capital",Madina Town,18000,Low,5.0,1361.25,3,3,33.583344,73.151583,02-04-2019,AG-04,Ayesha Farooq
+PROP-1421,Upper Portion,For Rent,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,32000,Medium,5.0,1361.25,0,0,33.646421000000004,73.045263,07-01-2019,AG-05,Usman Tariq
+PROP-1422,Upper Portion,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,54000,High,20.0,5445.02,5,5,33.626913,72.924328,04-05-2019,AG-05,Usman Tariq
+PROP-1423,Upper Portion,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,80000,Very High,24.0,6534.02,2,2,33.716273,73.056235,06-13-2019,AG-06,Hina Shaikh
+PROP-1424,House,For Sale,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,280000000,Very High,80.0,21780.08,6,6,33.72334,73.051171,07-04-2019,AG-06,Hina Shaikh
+PROP-1425,House,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,3700000,Low,5.0,1361.25,0,0,33.495884000000004,73.24531999999999,07-23-2019,AG-06,Hina Shaikh
+PROP-1426,House,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,44000000,Very High,9.3,2531.93,6,7,33.683532,72.99041,06-28-2019,AG-06,Hina Shaikh
+PROP-1427,Upper Portion,For Rent,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,50000,High,10.0,2722.51,0,0,33.692638,73.218813,07-02-2019,AG-06,Hina Shaikh
+PROP-1428,House,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,30000,Low,7.0,1905.76,0,0,33.669533,73.000073,07-04-2019,AG-04,Ayesha Farooq
+PROP-1429,House,For Sale,Islamabad,"G-9, Islamabad, Islamabad Capital",G-9,18500000,High,5.6,1524.61,0,0,33.686496000000005,73.039076,07-16-2019,AG-05,Usman Tariq
+PROP-1430,Upper Portion,For Rent,Islamabad,"H-13, Islamabad, Islamabad Capital",H-13,20000,Low,6.0,1633.51,3,2,33.637489,72.972193,01-05-2019,AG-06,Hina Shaikh
+PROP-1431,Flat,For Rent,Islamabad,"National Police Foundation, Islamabad, Islamabad Capital",National Police Foundation,14000,Low,3.3,898.43,0,0,33.700462,72.981226,07-10-2019,AG-04,Ayesha Farooq
+PROP-1432,Upper Portion,For Rent,Islamabad,"G-14, Islamabad, Islamabad Capital",G-14,30000,Medium,9.0,2450.26,2,3,33.641955,72.952859,04-05-2019,AG-04,Ayesha Farooq
+PROP-1433,House,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,80000,High,8.0,2178.01,3,3,33.671640000000004,72.99165500000001,06-27-2019,AG-05,Usman Tariq
+PROP-1434,Upper Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,130000,Very High,20.0,5445.02,3,3,33.698137,72.978215,05-05-2019,AG-06,Hina Shaikh
+PROP-1435,House,For Sale,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,48900000,Very High,20.0,5445.02,0,0,33.527944,73.161392,07-24-2019,AG-05,Usman Tariq
+PROP-1436,Room,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,10000,Low,0.8,217.8,1,1,33.527944,73.161392,08-08-2018,AG-04,Ayesha Farooq
+PROP-1437,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,55000,High,8.0,2178.01,0,0,33.698137,72.978215,07-11-2019,AG-05,Usman Tariq
+PROP-1438,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,21200000,High,5.0,1361.25,5,7,33.646421000000004,73.045263,06-13-2019,AG-05,Usman Tariq
+PROP-1439,Flat,For Sale,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,21800000,Very High,8.7,2368.58,0,0,33.674273,72.999205,05-05-2019,AG-04,Ayesha Farooq
+PROP-1440,House,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,30000,Low,7.0,1905.76,2,3,33.617280514569,73.135200981102,06-27-2019,AG-06,Hina Shaikh
+PROP-1441,House,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,550000,Very High,48.0,13068.05,0,10,33.720413,73.056493,06-13-2019,AG-04,Ayesha Farooq
+PROP-1442,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,350000,Very High,22.0,5989.52,5,6,33.730907,73.07443,12-06-2018,AG-05,Usman Tariq
+PROP-1443,House,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,350000,Very High,40.0,10890.04,7,8,33.695352,73.00698299999999,07-04-2019,AG-06,Hina Shaikh
+PROP-1444,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,420000,Very High,26.0,7078.53,0,0,33.730907,73.074431,07-03-2019,AG-06,Hina Shaikh
+PROP-1445,Upper Portion,For Rent,Islamabad,"E-7, Islamabad, Islamabad Capital",E-7,175000,Very High,22.0,5989.52,3,3,33.727409,73.04758100000001,06-04-2019,AG-06,Hina Shaikh
+PROP-1446,House,For Sale,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,30000000,High,12.0,3267.01,0,0,33.631485999999995,72.926559,07-17-2019,AG-06,Hina Shaikh
+PROP-1447,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,14500000,Medium,5.0,1361.25,0,0,33.642563,73.03599399999999,07-03-2019,AG-05,Usman Tariq
+PROP-1448,Lower Portion,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,120000,Very High,26.0,7078.53,3,3,33.683425,72.980804,07-02-2019,AG-05,Usman Tariq
+PROP-1449,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,50000000,Very High,20.0,5445.02,6,7,33.692638,73.218813,07-10-2019,AG-05,Usman Tariq
+PROP-1450,House,For Rent,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,130000,High,12.4,3375.91,6,0,33.667640000000006,73.06594799999999,06-04-2019,AG-06,Hina Shaikh
+PROP-1451,Lower Portion,For Rent,Islamabad,"F-7, Islamabad, Islamabad Capital",F-7,130000,Very High,20.0,5445.02,2,2,33.720556,73.06499000000001,07-10-2019,AG-04,Ayesha Farooq
+PROP-1452,Flat,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,18000000,Very High,11.6,3158.11,2,3,33.684782,72.98638299999999,04-05-2019,AG-04,Ayesha Farooq
+PROP-1453,House,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,39000000,Very High,14.0,3811.51,5,7,33.695972999999995,73.215615,07-04-2019,AG-06,Hina Shaikh
+PROP-1454,House,For Sale,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,9500000,Low,7.0,1905.76,3,3,33.619337,73.125315,05-05-2019,AG-06,Hina Shaikh
+PROP-1455,Upper Portion,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,60000,High,20.0,5445.02,3,3,33.675604,73.000367,07-02-2019,AG-06,Hina Shaikh
+PROP-1456,Lower Portion,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,55000,High,10.0,2722.51,0,0,33.650065000000005,72.96368100000001,02-04-2019,AG-04,Ayesha Farooq
+PROP-1457,House,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,110000,High,16.0,4356.02,4,4,33.698137,72.978215,06-13-2019,AG-04,Ayesha Farooq
+PROP-1458,Lower Portion,For Rent,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",Soan Garden,28000,Medium,10.0,2722.51,2,2,33.564427,73.157101,04-05-2019,AG-04,Ayesha Farooq
+PROP-1459,House,For Rent,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,83000,High,20.0,5445.02,5,0,33.695972999999995,73.215615,01-05-2019,AG-05,Usman Tariq
+PROP-1460,Lower Portion,For Rent,Islamabad,"Margalla Town, Islamabad, Islamabad Capital",Margalla Town,20000,Low,5.0,1361.25,2,2,33.669970134512,73.10734381614701,02-04-2019,AG-04,Ayesha Farooq
+PROP-1461,Flat,For Sale,Islamabad,"Karakoram Diplomatic Enclave, Islamabad, Islamabad Capital",Karakoram Diplomatic Enclave,50000000,Very High,8.4,2286.91,2,2,33.724426,73.12033100000001,04-05-2019,AG-05,Usman Tariq
+PROP-1462,House,For Sale,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,13000000,Medium,5.0,1361.25,0,6,33.616406,73.13066500000001,07-23-2019,AG-06,Hina Shaikh
+PROP-1463,Flat,For Sale,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,7500000,Medium,5.5,1497.38,2,2,33.668496999999995,73.07415999999999,06-27-2019,AG-05,Usman Tariq
+PROP-1464,House,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,300000,Very High,20.0,5445.02,8,6,33.69385,72.97059,09-07-2018,AG-05,Usman Tariq
+PROP-1465,Upper Portion,For Rent,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,65000,Very High,14.2,3865.96,0,0,33.667640000000006,73.06594799999999,07-17-2019,AG-06,Hina Shaikh
+PROP-1466,House,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,48000,Medium,5.0,1361.25,3,3,33.669533,73.000073,07-22-2019,AG-04,Ayesha Farooq
+PROP-1467,House,For Sale,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,37000000,Very High,10.9,2967.54,7,7,33.668496999999995,73.07415999999999,07-01-2019,AG-05,Usman Tariq
+PROP-1468,Lower Portion,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,24000,Low,4.4,1197.9,2,2,33.645957,72.96247199999999,02-04-2019,AG-06,Hina Shaikh
+PROP-1469,House,For Rent,Islamabad,"G-9, Islamabad, Islamabad Capital",G-9,70000,Medium,14.2,3865.96,3,0,33.682675,73.030243,07-15-2019,AG-04,Ayesha Farooq
+PROP-1470,House,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,110000,High,20.0,5445.02,0,0,33.527944,73.161392,07-01-2019,AG-04,Ayesha Farooq
+PROP-1471,Upper Portion,For Rent,Islamabad,"DHA Defence, Islamabad, Islamabad Capital",DHA Defence,45000,High,20.0,5445.02,3,3,33.532523,73.163452,05-05-2019,AG-05,Usman Tariq
+PROP-1472,House,For Rent,Islamabad,"Bhara kahu, Islamabad, Islamabad Capital",Bhara kahu,22000,Low,4.0,1089.0,5,4,33.746181290948,73.174610137939,02-04-2019,AG-05,Usman Tariq
+PROP-1473,House,For Rent,Islamabad,"G-13, Islamabad, Islamabad Capital",G-13,55000,Medium,4.4,1197.9,0,0,33.650065000000005,72.96368100000001,07-04-2019,AG-06,Hina Shaikh
+PROP-1474,Flat,For Sale,Islamabad,"Bahria Town, Islamabad, Islamabad Capital",Bahria Town,13500000,Very High,10.2,2776.96,3,0,33.692338,73.21899499999999,06-19-2019,AG-05,Usman Tariq
+PROP-1475,Flat,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,60000,High,3.8,1034.55,2,2,33.698137,72.978215,06-13-2019,AG-05,Usman Tariq
+PROP-1476,Flat,For Sale,Islamabad,"River Garden, Islamabad, Islamabad Capital",River Garden,2400000,Low,1.6,435.6,1,1,33.551696,73.166027,07-03-2019,AG-05,Usman Tariq
+PROP-1477,Flat,For Rent,Islamabad,"G-15, Islamabad, Islamabad Capital",G-15,11000,Low,0.9,245.03,1,1,33.631602597821,72.920926809311,07-17-2019,AG-04,Ayesha Farooq
+PROP-1478,House,For Rent,Islamabad,"Ghauri Town, Islamabad, Islamabad Capital",Ghauri Town,27000,Low,3.0,816.75,4,4,33.619337,73.125315,07-03-2019,AG-04,Ayesha Farooq
+PROP-1479,House,For Sale,Islamabad,"I-14, Islamabad, Islamabad Capital",I-14,16500000,High,6.0,1633.51,4,5,33.609902000000005,72.967386,06-19-2019,AG-04,Ayesha Farooq
+PROP-1480,House,For Sale,Islamabad,"Korang Town, Islamabad, Islamabad Capital",Korang Town,30000000,High,12.8,3484.81,6,6,33.579034,73.13959100000001,07-04-2019,AG-05,Usman Tariq
+PROP-1481,Lower Portion,For Rent,Islamabad,"Blue Area, Islamabad, Islamabad Capital",Blue Area,100000,Very High,20.0,5445.02,3,3,33.713845,73.06097,05-05-2019,AG-04,Ayesha Farooq
+PROP-1482,House,For Sale,Islamabad,"I-8, Islamabad, Islamabad Capital",I-8,67500000,Very High,14.2,3865.96,8,0,33.667640000000006,73.06594799999999,07-15-2019,AG-04,Ayesha Farooq
+PROP-1483,House,For Rent,Islamabad,"G-9, Islamabad, Islamabad Capital",G-9,70000,Medium,5.0,1361.25,4,3,33.686496000000005,73.039076,12-06-2018,AG-06,Hina Shaikh
+PROP-1484,Upper Portion,For Rent,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,85000,Very High,20.0,5445.02,3,4,33.683425,72.980804,05-17-2019,AG-05,Usman Tariq
+PROP-1485,Flat,For Sale,Islamabad,"F-11, Islamabad, Islamabad Capital",F-11,15000000,Very High,6.4,1742.41,2,0,33.684782,72.98638299999999,03-06-2019,AG-06,Hina Shaikh
+PROP-1486,Flat,For Rent,Islamabad,"Soan Garden, Islamabad, Islamabad Capital",Soan Garden,16000,Low,4.0,1089.0,3,2,33.564427,73.157101,03-06-2019,AG-04,Ayesha Farooq
+PROP-1487,Lower Portion,For Rent,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,50000,High,12.0,3267.01,3,0,33.698244,72.984238,02-04-2019,AG-05,Usman Tariq
+PROP-1488,Flat,For Rent,Islamabad,"F-8, Islamabad, Islamabad Capital",F-8,135000,Very High,6.7,1824.08,0,0,33.707982,73.050476,06-13-2019,AG-04,Ayesha Farooq
+PROP-1489,Lower Portion,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,120000,Very High,20.0,5445.02,3,0,33.691531,73.005431,07-12-2019,AG-06,Hina Shaikh
+PROP-1490,Flat,For Sale,Islamabad,"E-11, Islamabad, Islamabad Capital",E-11,15200000,Very High,8.4,2286.91,3,0,33.698244,72.984238,04-05-2019,AG-06,Hina Shaikh
+PROP-1491,House,For Rent,Islamabad,"Bhara kahu, Islamabad, Islamabad Capital",Bhara kahu,150000,High,44.0,11979.04,10,0,33.737402,73.179159,07-03-2019,AG-06,Hina Shaikh
+PROP-1492,Upper Portion,For Rent,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,33000,Medium,5.0,1361.25,2,3,33.649778999999995,73.02938499999999,01-05-2019,AG-06,Hina Shaikh
+PROP-1493,Flat,For Sale,Islamabad,"G-10, Islamabad, Islamabad Capital",G-10,8000000,High,4.0,1089.0,2,2,33.676103999999995,73.01384200000001,04-05-2019,AG-06,Hina Shaikh
+PROP-1494,House,For Rent,Islamabad,"F-6, Islamabad, Islamabad Capital",F-6,425000,Very High,26.0,7078.53,0,0,33.730907,73.074431,07-03-2019,AG-05,Usman Tariq
+PROP-1495,House,For Rent,Islamabad,"G-11, Islamabad, Islamabad Capital",G-11,190000,Very High,20.0,5445.02,7,7,33.667854,73.003843,05-05-2019,AG-05,Usman Tariq
+PROP-1496,House,For Sale,Islamabad,"CBR Town, Islamabad, Islamabad Capital",CBR Town,14500000,Medium,7.0,1905.76,6,7,33.559385,73.141265,12-06-2018,AG-06,Hina Shaikh
+PROP-1497,House,For Rent,Islamabad,"F-10, Islamabad, Islamabad Capital",F-10,180000,High,22.0,5989.52,5,5,33.691781,73.000288,07-10-2019,AG-06,Hina Shaikh
+PROP-1498,Lower Portion,For Rent,Islamabad,"I-10, Islamabad, Islamabad Capital",I-10,22000,Low,4.4,1197.9,3,0,33.648922,73.038969,07-09-2019,AG-04,Ayesha Farooq
+PROP-1499,House,For Sale,Islamabad,"Lehtarar Road, Islamabad, Islamabad Capital",Lehtarar Road,22000000,High,10.6,2885.86,10,8,33.639311,73.148646,08-08-2018,AG-04,Ayesha Farooq
+PROP-1500,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,35000,Medium,10.0,2722.51,3,3,33.550408000000004,73.115473,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1501,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,23000,Low,5.0,1361.25,2,2,33.573152,73.110881,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1502,House,For Sale,Rawalpindi,"Girja Road, Rawalpindi, Punjab",Girja Road,4000000,Low,6.0,1633.51,0,0,33.564923,72.993558,06-27-2019,AG-07,Faisal Mehmood
+PROP-1503,House,For Sale,Rawalpindi,"Mohammadi Colony, Rawalpindi, Punjab",Mohammadi Colony,2500000,Low,3.3,898.43,3,1,33.591046,73.02166,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1504,House,For Sale,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,1900000,Low,2.5,680.63,0,0,33.597548,73.014176,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1505,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,45000000,Very High,20.0,5445.02,6,6,33.549693,73.13053599999999,06-13-2019,AG-08,Mahnoor Iqbal
+PROP-1506,House,For Sale,Rawalpindi,"Chakri, Rawalpindi, Punjab",Chakri,2500000,Low,4.0,1089.0,2,1,33.292707,72.759989,10-07-2018,AG-07,Faisal Mehmood
+PROP-1507,Upper Portion,For Rent,Rawalpindi,"Shams Abad, Rawalpindi, Punjab",Shams Abad,30000,Medium,9.0,2450.26,2,2,33.651485,73.08069,09-20-2018,AG-08,Mahnoor Iqbal
+PROP-1508,House,For Sale,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,6000000,Low,5.0,1361.25,2,0,33.5628,73.10714399999999,07-05-2019,AG-07,Faisal Mehmood
+PROP-1509,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,42500000,Very High,20.0,5445.02,5,6,33.531951,73.115215,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1510,Flat,For Rent,Rawalpindi,"High Court Road, Rawalpindi, Punjab",High Court Road,17000,Low,3.0,816.75,2,2,33.563238,73.102118,05-06-2019,AG-08,Mahnoor Iqbal
+PROP-1511,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,50000,High,20.0,5445.02,2,2,33.531951,73.115215,11-10-2018,AG-07,Faisal Mehmood
+PROP-1512,House,For Sale,Rawalpindi,"Shams Abad, Rawalpindi, Punjab",Shams Abad,19500000,High,7.0,1905.76,4,4,33.651485,73.08069,10-07-2018,AG-08,Mahnoor Iqbal
+PROP-1513,Lower Portion,For Rent,Rawalpindi,"Khanna Road, Rawalpindi, Punjab",Khanna Road,23000,Low,6.0,1633.51,3,3,33.628433,73.102067,03-19-2019,AG-07,Faisal Mehmood
+PROP-1514,House,For Sale,Rawalpindi,"Sadiqa Abad, Rawalpindi, Punjab",Sadiqa Abad,7500000,Low,5.0,1361.25,0,0,33.63238,73.080232,07-11-2019,AG-07,Faisal Mehmood
+PROP-1515,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,3400000,Low,3.5,952.88,2,1,33.480565000000006,73.088937,03-06-2019,AG-08,Mahnoor Iqbal
+PROP-1516,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,4500000,Low,5.0,1361.25,2,0,33.523393,73.047551,06-27-2019,AG-07,Faisal Mehmood
+PROP-1517,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,45000,Medium,8.0,2178.01,3,3,33.498497,73.101182,05-06-2019,AG-07,Faisal Mehmood
+PROP-1518,House,For Rent,Rawalpindi,"Chaklala Scheme, Rawalpindi, Punjab",Chaklala Scheme,35000,Low,10.0,2722.51,3,3,33.656924,73.143826,06-29-2019,AG-08,Mahnoor Iqbal
+PROP-1519,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,17000,Low,5.0,1361.25,2,1,33.4966,73.109311,01-18-2019,AG-07,Faisal Mehmood
+PROP-1520,House,For Sale,Rawalpindi,"Rawal Road, Rawalpindi, Punjab",Rawal Road,100000000,Very High,11.0,2994.76,10,8,33.62896955604,73.07983428239801,08-09-2018,AG-08,Mahnoor Iqbal
+PROP-1521,House,For Rent,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,35000,Low,6.0,1633.51,4,0,33.590885,73.133533,07-04-2019,AG-07,Faisal Mehmood
+PROP-1522,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,48500000,Very High,20.0,5445.02,7,7,33.555594,73.133669,07-22-2019,AG-07,Faisal Mehmood
+PROP-1523,Flat,For Sale,Rawalpindi,"Saddar, Rawalpindi, Punjab",Saddar,3600000,Low,2.0,544.5,1,1,33.596104,73.05358199999999,06-13-2019,AG-07,Faisal Mehmood
+PROP-1524,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,2600000,Low,2.9,789.53,2,2,33.518078835176,73.10565590858499,07-13-2019,AG-08,Mahnoor Iqbal
+PROP-1525,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,50000000,Very High,20.0,5445.02,5,7,33.550408000000004,73.115473,07-15-2019,AG-08,Mahnoor Iqbal
+PROP-1526,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,22000,Low,3.1,843.98,1,1,33.550096,73.12381500000001,06-17-2019,AG-08,Mahnoor Iqbal
+PROP-1527,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,75000,Very High,20.0,5445.02,3,3,33.550096,73.12381500000001,07-18-2019,AG-08,Mahnoor Iqbal
+PROP-1528,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,32000,Medium,14.0,3811.51,2,2,33.531951,73.115215,07-08-2019,AG-07,Faisal Mehmood
+PROP-1529,Upper Portion,For Rent,Rawalpindi,"Westridge, Rawalpindi, Punjab",Westridge,30000,Medium,6.0,1633.51,0,0,33.607828999999995,73.021817,06-28-2019,AG-08,Mahnoor Iqbal
+PROP-1530,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,3500000,Low,2.7,735.08,1,2,33.531951,73.115215,06-28-2019,AG-08,Mahnoor Iqbal
+PROP-1531,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,9800000,Medium,5.0,1361.25,3,4,33.485576,73.08393000000001,06-28-2019,AG-07,Faisal Mehmood
+PROP-1532,Lower Portion,For Rent,Rawalpindi,"PIA Colony, Rawalpindi, Punjab",PIA Colony,18000,Low,5.0,1361.25,0,0,33.603452000000004,73.011125,05-06-2019,AG-08,Mahnoor Iqbal
+PROP-1533,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,7500000,Low,5.0,1361.25,4,4,33.550869,73.05618199999999,08-08-2018,AG-08,Mahnoor Iqbal
+PROP-1534,House,For Sale,Rawalpindi,"New Lalazar, Rawalpindi, Punjab",New Lalazar,9000000,Low,5.0,1361.25,5,5,33.561043,73.070615,04-05-2019,AG-08,Mahnoor Iqbal
+PROP-1535,House,For Sale,Rawalpindi,"Amarpura, Rawalpindi, Punjab",Amarpura,15000000,Medium,5.0,1361.25,8,4,33.622471999999995,73.071652,06-04-2019,AG-08,Mahnoor Iqbal
+PROP-1536,House,For Sale,Rawalpindi,"Defence Road, Rawalpindi, Punjab",Defence Road,5500000,Low,5.0,1361.25,2,3,33.536816067733,73.101267814636,06-20-2019,AG-07,Faisal Mehmood
+PROP-1537,House,For Sale,Rawalpindi,"Askari 13, Rawalpindi, Punjab",Askari 13,19000000,High,8.0,2178.01,4,5,33.569523,73.064679,02-23-2019,AG-07,Faisal Mehmood
+PROP-1538,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,4400000,Low,5.0,1361.25,4,2,33.550869,73.05618199999999,02-04-2019,AG-08,Mahnoor Iqbal
+PROP-1539,House,For Sale,Rawalpindi,"Gulzar-e-Quaid Housing Society, Rawalpindi, Punjab",Gulzar-e-Quaid Housing Society,22000000,High,10.0,2722.51,0,0,33.600376000000004,73.130983,05-05-2019,AG-07,Faisal Mehmood
+PROP-1540,House,For Sale,Rawalpindi,"Chakri Road, Rawalpindi, Punjab",Chakri Road,3600000,Low,4.0,1089.0,5,3,33.543125,72.98946,10-07-2018,AG-08,Mahnoor Iqbal
+PROP-1541,House,For Sale,Rawalpindi,"Quaid-e-Azam Colony, Rawalpindi, Punjab",Quaid-e-Azam Colony,3500000,Low,4.0,1089.0,2,2,33.564463,73.021138,07-02-2019,AG-07,Faisal Mehmood
+PROP-1542,House,For Sale,Rawalpindi,"Race Course, Rawalpindi, Punjab",Race Course,20000000,High,12.0,3267.01,4,0,33.604415,73.035947,07-22-2019,AG-07,Faisal Mehmood
+PROP-1543,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,45000,Medium,5.0,1361.25,2,2,33.50136,73.10869100000001,07-03-2019,AG-07,Faisal Mehmood
+PROP-1544,Upper Portion,For Rent,Rawalpindi,"Fazal Town, Rawalpindi, Punjab",Fazal Town,24000,Low,10.0,2722.51,4,3,33.602968,73.11795500000001,07-17-2019,AG-07,Faisal Mehmood
+PROP-1545,House,For Sale,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,20000000,High,5.0,1361.25,0,0,33.639853,73.079418,07-01-2019,AG-07,Faisal Mehmood
+PROP-1546,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10300000,High,6.1,1660.73,2,2,33.498432053107,73.070408557036,06-06-2019,AG-07,Faisal Mehmood
+PROP-1547,House,For Sale,Rawalpindi,"Chakra Road, Rawalpindi, Punjab",Chakra Road,5500000,Low,7.0,1905.76,3,3,33.584526904161,72.989977583639,11-06-2018,AG-07,Faisal Mehmood
+PROP-1548,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,40000000,Very High,20.0,5445.02,5,6,33.550623,73.123112,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1549,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,6600000,Low,6.0,1633.51,0,0,33.55087,73.05618,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1550,House,For Sale,Rawalpindi,"Lalkurti, Rawalpindi, Punjab",Lalkurti,40000000,Very High,20.0,5445.02,0,0,33.582028,73.058222,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1551,House,For Rent,Rawalpindi,"Judicial Colony, Rawalpindi, Punjab",Judicial Colony,30000,Low,5.0,1361.25,2,2,33.595729,73.134502,05-06-2019,AG-07,Faisal Mehmood
+PROP-1552,House,For Sale,Rawalpindi,"Muslim Town, Rawalpindi, Punjab",Muslim Town,5600000,Low,3.0,816.75,6,3,33.628609999999995,73.092252,12-06-2018,AG-08,Mahnoor Iqbal
+PROP-1553,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,60000,High,7.1,1932.98,3,0,33.531951,73.115215,04-09-2019,AG-07,Faisal Mehmood
+PROP-1554,House,For Sale,Rawalpindi,"Dhok Gujran, Rawalpindi, Punjab",Dhok Gujran,3800000,Low,3.5,952.88,0,0,33.599193,72.990881,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1555,Lower Portion,For Rent,Rawalpindi,"Peshawar Road, Rawalpindi, Punjab",Peshawar Road,35000,Medium,6.0,1633.51,2,3,33.602664000000004,73.03019599999999,12-10-2018,AG-07,Faisal Mehmood
+PROP-1556,House,For Sale,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,20000000,High,5.0,1361.25,0,0,33.63739,73.076675,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1557,Flat,For Sale,Rawalpindi,"Askari 7, Rawalpindi, Punjab",Askari 7,16000000,Very High,10.0,2722.51,3,0,33.56103,73.062276,06-04-2019,AG-07,Faisal Mehmood
+PROP-1558,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,22500000,High,10.0,2722.51,5,6,33.49793934306,73.088862705335,08-08-2018,AG-08,Mahnoor Iqbal
+PROP-1559,Upper Portion,For Rent,Rawalpindi,"Khayaban-e-Sir Syed, Rawalpindi, Punjab",Khayaban-e-Sir Syed,25000,Low,7.0,1905.76,3,2,33.638847,73.048089,05-06-2019,AG-07,Faisal Mehmood
+PROP-1560,House,For Sale,Rawalpindi,"Dhoke Hassu, Rawalpindi, Punjab",Dhoke Hassu,30000000,High,13.0,3539.26,11,9,33.049786,73.120357,05-06-2019,AG-08,Mahnoor Iqbal
+PROP-1561,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,15000000,Medium,10.0,2722.51,6,6,33.588570000000004,73.135339,03-06-2019,AG-08,Mahnoor Iqbal
+PROP-1562,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,21500000,High,10.0,2722.51,5,6,33.550407,73.11547,02-04-2019,AG-07,Faisal Mehmood
+PROP-1563,House,For Sale,Rawalpindi,"Dhoke Syedan, Rawalpindi, Punjab",Dhoke Syedan,5000000,Low,5.0,1361.25,8,0,33.526416,72.644958,06-13-2019,AG-07,Faisal Mehmood
+PROP-1564,House,For Sale,Rawalpindi,"Harley Street, Rawalpindi, Punjab",Harley Street,11000000,Medium,5.0,1361.25,10,8,33.576048,73.044317,07-04-2019,AG-07,Faisal Mehmood
+PROP-1565,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,8400000,High,3.7,1007.33,1,2,33.549693,73.13053599999999,06-28-2019,AG-07,Faisal Mehmood
+PROP-1566,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,49000,Medium,7.0,1905.76,0,0,33.488368,73.09423000000001,06-28-2019,AG-07,Faisal Mehmood
+PROP-1567,House,For Rent,Rawalpindi,"Muslim Town, Rawalpindi, Punjab",Muslim Town,12000,Low,4.0,1089.0,0,0,33.628609999999995,73.092252,07-03-2019,AG-07,Faisal Mehmood
+PROP-1568,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,25500,Medium,7.0,1905.76,0,0,33.489836,73.101611,01-06-2019,AG-08,Mahnoor Iqbal
+PROP-1569,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,4300000,Low,3.5,952.88,2,1,33.4966,73.109311,06-27-2019,AG-07,Faisal Mehmood
+PROP-1570,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,55000000,Very High,26.0,7078.53,7,6,33.57022,73.116674,07-05-2019,AG-08,Mahnoor Iqbal
+PROP-1571,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,28000,Medium,5.0,1361.25,2,2,33.531951,73.115215,06-19-2019,AG-08,Mahnoor Iqbal
+PROP-1572,House,For Sale,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,12500000,Medium,7.5,2041.88,3,3,33.595685573251,73.015852533281,08-08-2018,AG-07,Faisal Mehmood
+PROP-1573,House,For Sale,Rawalpindi,"Dhoke Syedan, Rawalpindi, Punjab",Dhoke Syedan,2600000,Low,3.0,816.75,2,0,33.526416,72.644958,07-03-2019,AG-07,Faisal Mehmood
+PROP-1574,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,42000,High,20.0,5445.02,3,3,33.550408000000004,73.115473,06-05-2019,AG-07,Faisal Mehmood
+PROP-1575,House,For Sale,Rawalpindi,"Media Town, Rawalpindi, Punjab",Media Town,18500000,High,10.0,2722.51,6,8,33.560887,73.125937,04-05-2019,AG-07,Faisal Mehmood
+PROP-1576,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,9700000,Medium,5.0,1361.25,4,3,33.492386,73.08206,07-04-2019,AG-07,Faisal Mehmood
+PROP-1577,House,For Sale,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,16500000,High,9.0,2450.26,7,0,33.5628,73.10714399999999,07-02-2019,AG-07,Faisal Mehmood
+PROP-1578,Upper Portion,For Rent,Rawalpindi,"Kalma Chowk, Rawalpindi, Punjab",Kalma Chowk,16000,Low,4.0,1089.0,2,2,33.57258,73.03872,07-18-2019,AG-07,Faisal Mehmood
+PROP-1579,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,24000,Low,7.0,1905.76,3,2,33.495991,73.100195,06-26-2019,AG-07,Faisal Mehmood
+PROP-1580,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,15000000,Medium,5.0,1361.25,0,0,33.588570000000004,73.135339,01-05-2019,AG-08,Mahnoor Iqbal
+PROP-1581,House,For Sale,Rawalpindi,"Range Road, Rawalpindi, Punjab",Range Road,6200000,Low,3.0,816.75,4,2,33.59859301251,73.018003463876,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1582,Upper Portion,For Rent,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,40000,Medium,7.0,1905.76,3,3,33.638436,73.06959300000001,07-03-2019,AG-07,Faisal Mehmood
+PROP-1583,House,For Sale,Rawalpindi,"Khayaban-e-Sir Syed, Rawalpindi, Punjab",Khayaban-e-Sir Syed,9000000,Low,3.0,816.75,6,2,33.638847,73.048089,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1584,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,31000000,High,20.0,5445.02,5,5,33.485576,73.08393000000001,01-05-2019,AG-08,Mahnoor Iqbal
+PROP-1585,House,For Sale,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,12800000,Medium,5.0,1361.25,5,5,33.5628,73.10714399999999,07-16-2019,AG-07,Faisal Mehmood
+PROP-1586,Upper Portion,For Rent,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,53000,High,7.0,1905.76,2,2,33.597548,73.014176,07-19-2019,AG-07,Faisal Mehmood
+PROP-1587,House,For Rent,Rawalpindi,"Afshan Colony, Rawalpindi, Punjab",Afshan Colony,36000,Low,5.0,1361.25,2,2,33.595247,73.02359100000001,07-15-2019,AG-08,Mahnoor Iqbal
+PROP-1588,House,For Rent,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,35000,Low,6.0,1633.51,0,0,33.597548,73.014176,07-10-2019,AG-07,Faisal Mehmood
+PROP-1589,Flat,For Sale,Rawalpindi,"Safari View Residencia, Rawalpindi, Punjab",Safari View Residencia,3500000,Low,5.1,1388.48,2,0,33.57898,73.112934,06-04-2019,AG-07,Faisal Mehmood
+PROP-1590,House,For Sale,Rawalpindi,"Islamabad Highway, Rawalpindi, Punjab",Islamabad Highway,5500000,Low,5.0,1361.25,0,0,33.600268,73.12944300000001,07-04-2019,AG-07,Faisal Mehmood
+PROP-1591,House,For Sale,Rawalpindi,"Chaklala Scheme, Rawalpindi, Punjab",Chaklala Scheme,8500000,Low,4.0,1089.0,4,4,33.656924,73.143826,07-01-2019,AG-08,Mahnoor Iqbal
+PROP-1592,House,For Rent,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,54000,Medium,10.0,2722.51,5,5,33.5628,73.10714399999999,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1593,Lower Portion,For Rent,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,47000,High,6.0,1633.51,2,2,33.597548,73.014176,06-21-2019,AG-07,Faisal Mehmood
+PROP-1594,House,For Rent,Rawalpindi,"Askari 13, Rawalpindi, Punjab",Askari 13,52000,Medium,7.0,1905.76,4,4,33.569523,73.064679,07-21-2019,AG-08,Mahnoor Iqbal
+PROP-1595,House,For Sale,Rawalpindi,"Gulzar-e-Quaid Housing Society, Rawalpindi, Punjab",Gulzar-e-Quaid Housing Society,11500000,Medium,6.0,1633.51,4,4,33.600376000000004,73.130983,07-04-2019,AG-07,Faisal Mehmood
+PROP-1596,House,For Rent,Rawalpindi,"Gulshan Abad, Rawalpindi, Punjab",Gulshan Abad,12000,Low,10.0,2722.51,1,0,33.530556,73.06126400000001,06-19-2019,AG-07,Faisal Mehmood
+PROP-1597,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,23500000,High,10.0,2722.51,6,7,33.550408000000004,73.115473,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1598,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,4800000,Low,5.0,1361.25,2,2,33.523393,73.047551,06-27-2019,AG-07,Faisal Mehmood
+PROP-1599,Upper Portion,For Rent,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,32000,Medium,10.0,2722.51,3,4,33.5628,73.10714399999999,07-12-2019,AG-07,Faisal Mehmood
+PROP-1600,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,2600000,Low,2.0,544.5,2,1,33.550869,73.05618199999999,04-05-2019,AG-07,Faisal Mehmood
+PROP-1601,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,21000000,High,12.0,3267.01,5,0,33.596452,73.13076099999999,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1602,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10000,Low,4.4,1197.9,2,1,33.550623,73.123112,01-06-2019,AG-07,Faisal Mehmood
+PROP-1603,House,For Rent,Rawalpindi,"Morgah, Rawalpindi, Punjab",Morgah,100000,High,14.0,3811.51,11,4,33.544399,73.072507,01-09-2019,AG-07,Faisal Mehmood
+PROP-1604,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,20000,Low,2.4,653.4,1,1,33.555594,73.133669,10-20-2018,AG-07,Faisal Mehmood
+PROP-1605,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,42500000,Very High,20.0,5445.02,7,8,33.531951,73.115215,04-05-2019,AG-07,Faisal Mehmood
+PROP-1606,House,For Sale,Rawalpindi,"Others, Rawalpindi, Punjab",Others,13000000,Medium,5.0,1361.25,0,0,33.5984,73.0441,07-01-2019,AG-07,Faisal Mehmood
+PROP-1607,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,13500000,Very High,5.3,1442.93,2,2,33.552089,73.139278,06-30-2019,AG-07,Faisal Mehmood
+PROP-1608,Lower Portion,For Rent,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,17500,Low,5.0,1361.25,2,2,33.590885,73.133533,06-28-2019,AG-07,Faisal Mehmood
+PROP-1609,House,For Sale,Rawalpindi,"Media Town, Rawalpindi, Punjab",Media Town,21000000,High,13.0,3539.26,5,5,33.560887,73.125937,10-07-2018,AG-08,Mahnoor Iqbal
+PROP-1610,House,For Sale,Rawalpindi,"Zeeshan Colony, Rawalpindi, Punjab",Zeeshan Colony,9300000,Low,8.5,2314.13,6,4,33.589542,73.02362,07-04-2019,AG-07,Faisal Mehmood
+PROP-1611,House,For Sale,Rawalpindi,"Rawat, Rawalpindi, Punjab",Rawat,5500000,Low,5.0,1361.25,3,3,33.480625152588,73.210739135742,07-05-2019,AG-07,Faisal Mehmood
+PROP-1612,Upper Portion,For Rent,Rawalpindi,"Afshan Colony, Rawalpindi, Punjab",Afshan Colony,17000,Low,5.0,1361.25,2,2,33.595247,73.02359100000001,07-10-2019,AG-07,Faisal Mehmood
+PROP-1613,Lower Portion,For Rent,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,48500,High,7.0,1905.76,3,3,33.639853,73.079418,06-05-2019,AG-08,Mahnoor Iqbal
+PROP-1614,Flat,For Rent,Rawalpindi,"PWD Colony, Rawalpindi, Punjab",PWD Colony,12000,Low,3.0,816.75,2,2,33.570881,73.145235,11-10-2018,AG-07,Faisal Mehmood
+PROP-1615,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,6500000,Medium,3.0,816.75,3,2,33.549693,73.13053599999999,05-05-2019,AG-07,Faisal Mehmood
+PROP-1616,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,47000000,Very High,20.0,5445.02,6,6,33.550408000000004,73.115473,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1617,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,28000,Medium,2.2,598.95,1,1,33.573152,73.110881,12-10-2018,AG-08,Mahnoor Iqbal
+PROP-1618,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,2150000,Low,3.5,952.88,2,2,33.474695000000004,73.062758,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1619,House,For Rent,Rawalpindi,"Tulsa Road, Rawalpindi, Punjab",Tulsa Road,25000,Low,4.0,1089.0,2,0,33.567664,73.052858,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1620,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,40000,Low,5.0,1361.25,3,4,33.502004,73.074353,06-21-2019,AG-08,Mahnoor Iqbal
+PROP-1621,House,For Sale,Rawalpindi,"Misryal Road, Rawalpindi, Punjab",Misryal Road,6000000,Low,7.0,1905.76,4,3,33.600512236518995,72.99803066260199,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1622,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,23000000,High,10.0,2722.51,3,4,33.55892,73.118649,06-30-2019,AG-07,Faisal Mehmood
+PROP-1623,House,For Sale,Rawalpindi,"Caltex Road, Rawalpindi, Punjab",Caltex Road,8500000,Low,4.0,1089.0,2,2,33.553583,73.068339,10-07-2018,AG-08,Mahnoor Iqbal
+PROP-1624,House,For Rent,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,38000,Low,5.0,1361.25,4,4,33.5628,73.10714399999999,07-04-2019,AG-07,Faisal Mehmood
+PROP-1625,House,For Sale,Rawalpindi,"Munawar Colony, Rawalpindi, Punjab",Munawar Colony,8500000,Low,8.0,2178.01,3,3,33.55048,73.059787,06-27-2019,AG-07,Faisal Mehmood
+PROP-1626,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,45000000,Very High,20.0,5445.02,5,6,33.502004,73.074353,07-03-2019,AG-07,Faisal Mehmood
+PROP-1627,House,For Sale,Rawalpindi,"Sadiqabad, Rawalpindi, Punjab",Sadiqabad,9850000,Medium,6.0,1633.51,6,5,33.632397631086995,73.080732822418,10-07-2018,AG-07,Faisal Mehmood
+PROP-1628,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,40000,High,4.0,1089.0,2,2,33.574776694584,73.112526386976,07-08-2019,AG-08,Mahnoor Iqbal
+PROP-1629,Lower Portion,For Rent,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,22000,Low,8.0,2178.01,0,0,33.590885,73.133533,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1630,Upper Portion,For Rent,Rawalpindi,"Dhok Sayedan Road, Rawalpindi, Punjab",Dhok Sayedan Road,13000,Low,5.0,1361.25,2,0,33.587944907177,73.01358103752099,04-06-2019,AG-08,Mahnoor Iqbal
+PROP-1631,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,13000000,High,4.0,1089.0,2,0,33.550096,73.12381500000001,06-04-2019,AG-08,Mahnoor Iqbal
+PROP-1632,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10000000,Medium,7.0,1905.76,6,5,33.520711,73.105337,08-08-2018,AG-08,Mahnoor Iqbal
+PROP-1633,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,17500000,High,10.0,2722.51,5,6,33.482606,73.092105,03-06-2019,AG-07,Faisal Mehmood
+PROP-1634,Lower Portion,For Rent,Rawalpindi,"Safari View Residencia, Rawalpindi, Punjab",Safari View Residencia,35000,Medium,14.0,3811.51,2,3,33.57898,73.112934,10-20-2018,AG-07,Faisal Mehmood
+PROP-1635,House,For Sale,Rawalpindi,"Westridge, Rawalpindi, Punjab",Westridge,14000000,Medium,8.2,2232.46,4,5,33.617121000000004,73.02705300000001,08-08-2018,AG-07,Faisal Mehmood
+PROP-1636,House,For Sale,Rawalpindi,"Khayaban-e-Tanveer, Rawalpindi, Punjab",Khayaban-e-Tanveer,11000000,Medium,4.0,1089.0,4,0,33.584546,73.09964699999999,07-03-2019,AG-07,Faisal Mehmood
+PROP-1637,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10000000,Medium,7.0,1905.76,5,5,33.488368,73.09423000000001,06-13-2019,AG-08,Mahnoor Iqbal
+PROP-1638,House,For Sale,Rawalpindi,"Quaid-e-Azam Colony, Rawalpindi, Punjab",Quaid-e-Azam Colony,5500000,Low,5.0,1361.25,6,6,33.564463,73.021138,11-06-2018,AG-07,Faisal Mehmood
+PROP-1639,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,16000000,Medium,7.0,1905.76,4,5,33.498711,73.10435799999999,02-04-2019,AG-08,Mahnoor Iqbal
+PROP-1640,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,4300000,Low,2.2,598.95,1,1,33.55055,73.112844,06-30-2019,AG-07,Faisal Mehmood
+PROP-1641,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,13800000,Medium,7.0,1905.76,5,7,33.489836,73.101611,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1642,House,For Sale,Rawalpindi,"Dhoke Banaras Road, Rawalpindi, Punjab",Dhoke Banaras Road,3700000,Low,5.0,1361.25,0,0,33.59247,73.01495,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1643,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,80000,High,10.0,2722.51,4,4,33.55892,73.118649,06-29-2019,AG-08,Mahnoor Iqbal
+PROP-1644,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,15000000,Medium,11.0,2994.76,7,7,33.587014,73.131062,06-27-2019,AG-07,Faisal Mehmood
+PROP-1645,House,For Sale,Rawalpindi,"Misryal Road, Rawalpindi, Punjab",Misryal Road,4800000,Low,3.0,816.75,2,2,33.600513,72.99803,02-04-2019,AG-07,Faisal Mehmood
+PROP-1646,Lower Portion,For Rent,Rawalpindi,"Ghauri Town, Rawalpindi, Punjab",Ghauri Town,23000,Low,7.0,1905.76,2,3,33.62277,73.127075,01-06-2019,AG-08,Mahnoor Iqbal
+PROP-1647,House,For Sale,Rawalpindi,"Peshawar Road, Rawalpindi, Punjab",Peshawar Road,12000000,Medium,6.0,1633.51,4,4,33.602665,73.0302,06-13-2019,AG-07,Faisal Mehmood
+PROP-1648,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,125000,High,20.0,5445.02,5,5,33.550408000000004,73.115473,06-21-2019,AG-08,Mahnoor Iqbal
+PROP-1649,Lower Portion,For Rent,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,35000,Medium,5.0,1361.25,0,0,33.63739,73.076675,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1650,House,For Sale,Rawalpindi,"Chakri Road, Rawalpindi, Punjab",Chakri Road,2500000,Low,3.0,816.75,0,0,33.543125,72.98946,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1651,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,8500000,Low,5.0,1361.25,6,6,33.550869,73.05618199999999,07-05-2019,AG-07,Faisal Mehmood
+PROP-1652,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,9500000,Low,8.0,2178.01,4,4,33.485576,73.08393000000001,07-05-2019,AG-08,Mahnoor Iqbal
+PROP-1653,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,48000,Medium,7.0,1905.76,3,0,33.485576,73.08393000000001,05-06-2019,AG-07,Faisal Mehmood
+PROP-1654,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,12000,Low,4.0,1089.0,2,1,33.480565000000006,73.088937,07-23-2019,AG-07,Faisal Mehmood
+PROP-1655,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,60000,High,20.0,5445.02,3,0,33.550408000000004,73.115473,07-08-2019,AG-07,Faisal Mehmood
+PROP-1656,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,3600000,Low,5.0,1361.25,2,1,33.4966,73.109311,06-29-2019,AG-08,Mahnoor Iqbal
+PROP-1657,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,67500000,Very High,26.0,7078.53,7,7,33.502004,73.074353,06-27-2019,AG-08,Mahnoor Iqbal
+PROP-1658,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,65000,Very High,22.0,5989.52,4,4,33.488788,73.07699000000001,05-06-2019,AG-08,Mahnoor Iqbal
+PROP-1659,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,11000000,Medium,6.0,1633.51,4,5,33.584261,73.121663,07-04-2019,AG-07,Faisal Mehmood
+PROP-1660,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,6800000,Low,5.0,1361.25,3,4,33.50297,73.10216899999999,04-05-2019,AG-07,Faisal Mehmood
+PROP-1661,House,For Sale,Rawalpindi,"Khurram Colony, Rawalpindi, Punjab",Khurram Colony,5500000,Low,2.0,544.5,0,0,33.625787,73.09369000000001,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1662,House,For Rent,Rawalpindi,"Muslim Town, Rawalpindi, Punjab",Muslim Town,22000,Low,4.0,1089.0,2,2,33.628609999999995,73.092252,11-10-2018,AG-07,Faisal Mehmood
+PROP-1663,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,40000,Low,5.0,1361.25,0,0,33.50136,73.10869100000001,07-08-2019,AG-07,Faisal Mehmood
+PROP-1664,House,For Sale,Rawalpindi,"People Colony, Rawalpindi, Punjab",People Colony,5000000,Low,5.0,1361.25,0,0,33.593326,73.028933,07-10-2019,AG-08,Mahnoor Iqbal
+PROP-1665,House,For Sale,Rawalpindi,"Imam Bara Road, Rawalpindi, Punjab",Imam Bara Road,37500000,Very High,15.0,4083.76,5,4,33.623938,73.058936,04-05-2019,AG-08,Mahnoor Iqbal
+PROP-1666,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,15900000,Very High,6.2,1687.96,2,2,33.550408000000004,73.115473,12-06-2018,AG-08,Mahnoor Iqbal
+PROP-1667,House,For Sale,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,18000000,High,5.0,1361.25,3,3,33.638436,73.06959300000001,07-04-2019,AG-07,Faisal Mehmood
+PROP-1668,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10700000,Medium,8.0,2178.01,3,3,33.50136,73.10869100000001,06-28-2019,AG-08,Mahnoor Iqbal
+PROP-1669,House,For Sale,Rawalpindi,"Defence Road, Rawalpindi, Punjab",Defence Road,3700000,Low,3.3,898.43,2,3,33.536816067733,73.101267814636,05-05-2019,AG-07,Faisal Mehmood
+PROP-1670,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,35000,Medium,10.0,2722.51,2,2,33.531951,73.115215,06-28-2019,AG-07,Faisal Mehmood
+PROP-1671,House,For Rent,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,120000,High,7.0,1905.76,6,0,33.636132,73.068559,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1672,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,14000000,Medium,7.0,1905.76,3,3,33.498497,73.101182,07-01-2019,AG-08,Mahnoor Iqbal
+PROP-1673,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,30000,Medium,10.0,2722.51,3,3,33.495740999999995,73.074703,07-15-2019,AG-07,Faisal Mehmood
+PROP-1674,House,For Sale,Rawalpindi,"Misryal Road, Rawalpindi, Punjab",Misryal Road,4000000,Low,4.0,1089.0,0,0,33.604023411552,72.98940628767,09-07-2018,AG-07,Faisal Mehmood
+PROP-1675,House,For Rent,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,35000,Low,5.0,1361.25,4,5,33.550414787444,73.066983819008,07-08-2019,AG-08,Mahnoor Iqbal
+PROP-1676,Upper Portion,For Rent,Rawalpindi,"Westridge, Rawalpindi, Punjab",Westridge,45000,High,20.0,5445.02,0,0,33.607828999999995,73.021817,07-17-2019,AG-07,Faisal Mehmood
+PROP-1677,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,120000,High,20.0,5445.02,0,0,33.531951,73.115215,07-04-2019,AG-07,Faisal Mehmood
+PROP-1678,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,24000000,High,10.0,2722.51,5,6,33.549694,73.13054,05-05-2019,AG-07,Faisal Mehmood
+PROP-1679,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,35500000,Very High,24.0,6534.02,5,6,33.488788,73.07699000000001,06-20-2019,AG-07,Faisal Mehmood
+PROP-1680,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,65000,Very High,30.0,8167.53,3,3,33.502648,73.092556,01-18-2019,AG-08,Mahnoor Iqbal
+PROP-1681,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,2100000,Low,12.0,3267.01,4,5,33.555594,73.133669,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1682,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,9600000,High,4.0,1089.0,2,2,33.550623,73.123112,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1683,House,For Sale,Rawalpindi,"Awan Town, Rawalpindi, Punjab",Awan Town,4800000,Low,3.0,816.75,7,4,33.602665,73.0302,04-05-2019,AG-07,Faisal Mehmood
+PROP-1684,Flat,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,2400000,Low,1.6,435.6,1,1,33.555451,73.13821800000001,06-13-2019,AG-07,Faisal Mehmood
+PROP-1685,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,16500,Low,5.0,1361.25,2,1,33.480565000000006,73.088937,01-18-2019,AG-08,Mahnoor Iqbal
+PROP-1686,House,For Sale,Rawalpindi,"Askari 14, Rawalpindi, Punjab",Askari 14,17000000,High,10.0,2722.51,3,4,33.543004,73.067576,07-01-2019,AG-07,Faisal Mehmood
+PROP-1687,House,For Sale,Rawalpindi,"Range Road, Rawalpindi, Punjab",Range Road,13500000,Medium,6.0,1633.51,4,4,33.59859301251,73.018003463876,04-05-2019,AG-07,Faisal Mehmood
+PROP-1688,Upper Portion,For Rent,Rawalpindi,"Chaklala Scheme, Rawalpindi, Punjab",Chaklala Scheme,60000,High,20.0,5445.02,0,0,33.656924,73.143826,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1689,House,For Sale,Rawalpindi,"Shakrial, Rawalpindi, Punjab",Shakrial,3500000,Low,2.0,544.5,4,0,33.633452,73.09963,07-01-2019,AG-08,Mahnoor Iqbal
+PROP-1690,House,For Sale,Rawalpindi,"Haji Chowk, Rawalpindi, Punjab",Haji Chowk,7500000,Low,3.0,816.75,0,0,33.630256,73.089402,07-17-2019,AG-08,Mahnoor Iqbal
+PROP-1691,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,150000,Very High,20.0,5445.02,6,6,33.509017,73.08121899999999,06-21-2019,AG-08,Mahnoor Iqbal
+PROP-1692,Flat,For Rent,Rawalpindi,"PWD Colony, Rawalpindi, Punjab",PWD Colony,17000,Low,2.4,653.4,1,1,33.570881,73.145235,10-20-2018,AG-08,Mahnoor Iqbal
+PROP-1693,Lower Portion,For Rent,Rawalpindi,"Bilal Colony, Rawalpindi, Punjab",Bilal Colony,16000,Low,3.0,816.75,3,0,33.646551,73.086988,07-02-2019,AG-07,Faisal Mehmood
+PROP-1694,House,For Sale,Rawalpindi,"Farooq-e-Azam Road, Rawalpindi, Punjab",Farooq-e-Azam Road,5000000,Low,3.0,816.75,0,0,33.646747761918995,73.08989846693301,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1695,Flat,For Rent,Rawalpindi,"Askari 7, Rawalpindi, Punjab",Askari 7,50000,High,10.0,2722.51,3,4,33.56103,73.062276,07-19-2019,AG-07,Faisal Mehmood
+PROP-1696,House,For Sale,Rawalpindi,"Chaudhary Jan Colony, Rawalpindi, Punjab",Chaudhary Jan Colony,11500000,Medium,5.0,1361.25,4,6,33.582037,73.099496,01-05-2019,AG-07,Faisal Mehmood
+PROP-1697,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,7700000,Low,5.0,1361.25,4,4,33.590885,73.133533,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1698,House,For Sale,Rawalpindi,"Muslim Town, Rawalpindi, Punjab",Muslim Town,9500000,Low,2.5,680.63,8,0,33.628609999999995,73.092252,06-04-2019,AG-07,Faisal Mehmood
+PROP-1699,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,10600000,Medium,5.0,1361.25,3,4,33.491161346436,73.09324645996101,07-16-2019,AG-08,Mahnoor Iqbal
+PROP-1700,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,12000,Low,2.1,571.73,1,1,33.540109,73.108862,04-06-2019,AG-08,Mahnoor Iqbal
+PROP-1701,House,For Sale,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,75000000,Very High,15.0,4083.76,6,7,33.632156,73.074342,04-05-2019,AG-07,Faisal Mehmood
+PROP-1702,House,For Sale,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,18000000,High,10.0,2722.51,7,0,33.5628,73.10714399999999,07-11-2019,AG-08,Mahnoor Iqbal
+PROP-1703,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,6250000,Low,5.0,1361.25,2,2,33.50136,73.10869100000001,05-05-2019,AG-07,Faisal Mehmood
+PROP-1704,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,8000000,Low,5.0,1361.25,4,4,33.590885,73.133533,07-05-2019,AG-08,Mahnoor Iqbal
+PROP-1705,House,For Rent,Rawalpindi,"Shams Abad, Rawalpindi, Punjab",Shams Abad,16000,Low,3.0,816.75,3,2,33.651485,73.08069,02-17-2019,AG-08,Mahnoor Iqbal
+PROP-1706,Upper Portion,For Rent,Rawalpindi,"Satellite Town, Rawalpindi, Punjab",Satellite Town,30000,Medium,5.0,1361.25,3,0,33.641205,73.06577,07-17-2019,AG-08,Mahnoor Iqbal
+PROP-1707,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,26000000,High,10.0,2722.51,5,5,33.500035,73.093929,03-06-2019,AG-08,Mahnoor Iqbal
+PROP-1708,House,For Sale,Rawalpindi,"Chaklala Scheme, Rawalpindi, Punjab",Chaklala Scheme,9850000,Medium,5.0,1361.25,0,0,33.656924,73.143826,06-27-2019,AG-08,Mahnoor Iqbal
+PROP-1709,Lower Portion,For Rent,Rawalpindi,"Fazaia Colony, Rawalpindi, Punjab",Fazaia Colony,85000,Very High,24.0,6534.02,4,4,33.618783,73.115083,06-17-2019,AG-08,Mahnoor Iqbal
+PROP-1710,Upper Portion,For Rent,Rawalpindi,"Defence Colony, Rawalpindi, Punjab",Defence Colony,45000,High,20.0,5445.02,3,3,33.623169,73.10883199999999,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1711,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,24000000,High,12.0,3267.01,5,6,33.508588,73.07178499999999,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1712,House,For Sale,Rawalpindi,"Muslim Town, Rawalpindi, Punjab",Muslim Town,3000000,Low,1.0,272.25,0,0,33.628609999999995,73.092252,07-02-2019,AG-08,Mahnoor Iqbal
+PROP-1713,House,For Sale,Rawalpindi,"Race Course, Rawalpindi, Punjab",Race Course,25000000,High,20.0,5445.02,0,0,33.604415,73.035947,06-20-2019,AG-08,Mahnoor Iqbal
+PROP-1714,House,For Sale,Rawalpindi,"Defence Colony, Rawalpindi, Punjab",Defence Colony,30000000,High,20.0,5445.02,5,4,33.623169,73.10883199999999,06-04-2019,AG-08,Mahnoor Iqbal
+PROP-1715,House,For Sale,Rawalpindi,"Dhamyal Road, Rawalpindi, Punjab",Dhamyal Road,2600000,Low,3.0,816.75,2,1,33.556438852629,73.024669289589,01-05-2019,AG-08,Mahnoor Iqbal
+PROP-1716,House,For Sale,Rawalpindi,"Dhok Hukamdad, Rawalpindi, Punjab",Dhok Hukamdad,13000000,Medium,5.0,1361.25,7,3,33.625201000000004,73.113075,06-04-2019,AG-07,Faisal Mehmood
+PROP-1717,House,For Rent,Rawalpindi,"Chaklala Scheme, Rawalpindi, Punjab",Chaklala Scheme,18000,Low,5.0,1361.25,2,2,33.656924,73.143826,07-13-2019,AG-07,Faisal Mehmood
+PROP-1718,House,For Sale,Rawalpindi,"Pir Wadhai, Rawalpindi, Punjab",Pir Wadhai,2800000,Low,2.0,544.5,3,2,33.632022,73.03920500000001,01-05-2019,AG-07,Faisal Mehmood
+PROP-1719,House,For Sale,Rawalpindi,"Murree Road, Rawalpindi, Punjab",Murree Road,17000000,High,5.5,1497.38,7,7,33.657522,73.082898,07-04-2019,AG-07,Faisal Mehmood
+PROP-1720,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,50000,Medium,5.0,1361.25,2,5,33.50136,73.10869100000001,07-15-2019,AG-07,Faisal Mehmood
+PROP-1721,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,100000,High,20.0,5445.02,6,5,33.550408000000004,73.115473,07-08-2019,AG-08,Mahnoor Iqbal
+PROP-1722,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,50000,High,20.0,5445.02,0,0,33.531951,73.115215,07-04-2019,AG-08,Mahnoor Iqbal
+PROP-1723,House,For Sale,Rawalpindi,"Gulshan Abad, Rawalpindi, Punjab",Gulshan Abad,9000000,Low,10.0,2722.51,2,0,33.530556,73.06126400000001,06-27-2019,AG-07,Faisal Mehmood
+PROP-1724,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,50000,High,12.0,3267.01,3,3,33.516674,73.106543,01-18-2019,AG-08,Mahnoor Iqbal
+PROP-1725,Lower Portion,For Rent,Rawalpindi,"Gulraiz Housing Scheme, Rawalpindi, Punjab",Gulraiz Housing Scheme,45000,High,20.0,5445.02,0,0,33.5628,73.10714399999999,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1726,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,37000000,Very High,20.0,5445.02,6,8,33.555451,73.13821800000001,07-05-2019,AG-07,Faisal Mehmood
+PROP-1727,House,For Sale,Rawalpindi,"Bankers Colony, Rawalpindi, Punjab",Bankers Colony,3600000,Low,4.0,1089.0,2,2,33.546438,73.061718,07-03-2019,AG-08,Mahnoor Iqbal
+PROP-1728,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,13500000,Medium,7.0,1905.76,0,0,33.489836,73.101611,06-04-2019,AG-07,Faisal Mehmood
+PROP-1729,House,For Sale,Rawalpindi,"Faisal Colony, Rawalpindi, Punjab",Faisal Colony,12000000,Medium,7.0,1905.76,5,5,33.579624,73.03837,07-04-2019,AG-07,Faisal Mehmood
+PROP-1730,Upper Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,35000,Medium,8.0,2178.01,0,0,33.50297,73.10216899999999,06-21-2019,AG-08,Mahnoor Iqbal
+PROP-1731,House,For Rent,Rawalpindi,"Gulshan Abad, Rawalpindi, Punjab",Gulshan Abad,25000,Low,10.0,2722.51,3,2,33.530556,73.06126400000001,12-10-2018,AG-08,Mahnoor Iqbal
+PROP-1732,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,60000,Medium,10.0,2722.51,5,5,33.485576,73.08393000000001,09-20-2018,AG-08,Mahnoor Iqbal
+PROP-1733,House,For Sale,Rawalpindi,"Dhoke Khabba, Rawalpindi, Punjab",Dhoke Khabba,6000000,Low,2.2,598.95,4,2,33.611604874889004,73.074975125492,04-05-2019,AG-07,Faisal Mehmood
+PROP-1734,Lower Portion,For Rent,Rawalpindi,"Westridge, Rawalpindi, Punjab",Westridge,55000,High,20.0,5445.02,4,0,33.617121000000004,73.02705300000001,06-19-2019,AG-07,Faisal Mehmood
+PROP-1735,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,13500000,Medium,7.0,1905.76,5,7,33.498497,73.101182,05-05-2019,AG-07,Faisal Mehmood
+PROP-1736,House,For Rent,Rawalpindi,"New Lalazar, Rawalpindi, Punjab",New Lalazar,35000,Low,5.0,1361.25,4,5,33.561043,73.070615,03-19-2019,AG-08,Mahnoor Iqbal
+PROP-1737,Flat,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,17000,Low,5.0,1361.25,2,0,33.480565000000006,73.088937,05-06-2019,AG-07,Faisal Mehmood
+PROP-1738,House,For Sale,Rawalpindi,"Airport Housing Society, Rawalpindi, Punjab",Airport Housing Society,31500000,High,20.0,5445.02,8,9,33.590885,73.133533,07-23-2019,AG-07,Faisal Mehmood
+PROP-1739,House,For Rent,Rawalpindi,"Sadiqabad, Rawalpindi, Punjab",Sadiqabad,45000,Medium,3.0,816.75,5,0,33.632397631086995,73.080732822418,07-02-2019,AG-07,Faisal Mehmood
+PROP-1740,Lower Portion,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,25000,Low,8.0,2178.01,2,2,33.485576,73.08393000000001,07-08-2019,AG-07,Faisal Mehmood
+PROP-1741,House,For Rent,Rawalpindi,"Shalley Valley, Rawalpindi, Punjab",Shalley Valley,17000,Low,5.0,1361.25,2,3,33.597548,73.014176,01-09-2019,AG-08,Mahnoor Iqbal
+PROP-1742,House,For Rent,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,49000,Medium,7.0,1905.76,4,4,33.495991,73.100195,06-29-2019,AG-08,Mahnoor Iqbal
+PROP-1743,House,For Sale,Rawalpindi,"Adiala Road, Rawalpindi, Punjab",Adiala Road,5200000,Low,5.5,1497.38,2,2,33.550869,73.05618199999999,04-06-2019,AG-07,Faisal Mehmood
+PROP-1744,House,For Sale,Rawalpindi,"Lalarukh Colony, Rawalpindi, Punjab",Lalarukh Colony,6000000,Low,6.0,1633.51,6,6,33.559778,73.01330899999999,06-13-2019,AG-07,Faisal Mehmood
+PROP-1745,Flat,For Rent,Rawalpindi,"Farooq-e-Azam Road, Rawalpindi, Punjab",Farooq-e-Azam Road,25000,Low,3.6,980.1,2,2,33.646747761918995,73.08989846693301,06-26-2019,AG-07,Faisal Mehmood
+PROP-1746,House,For Sale,Rawalpindi,"Lalazar 2, Rawalpindi, Punjab",Lalazar 2,4300000,Low,5.0,1361.25,3,0,33.551679,73.02683,05-05-2019,AG-08,Mahnoor Iqbal
+PROP-1747,House,For Rent,Rawalpindi,"Farooq-e-Azam Road, Rawalpindi, Punjab",Farooq-e-Azam Road,20000,Low,5.0,1361.25,0,0,33.646747761918995,73.08989846693301,07-11-2019,AG-07,Faisal Mehmood
+PROP-1748,House,For Sale,Rawalpindi,"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Rawalpindi,4300000,Low,5.0,1361.25,2,1,33.4966,73.109311,06-20-2019,AG-07,Faisal Mehmood
+PROP-1749,House,For Sale,Rawalpindi,"Sadiqabad, Rawalpindi, Punjab",Sadiqabad,11000000,Medium,8.0,2178.01,0,0,33.632397631086995,73.080732822418,04-05-2019,AG-08,Mahnoor Iqbal
