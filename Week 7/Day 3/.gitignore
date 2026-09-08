@@ -1,0 +1,10 @@
+# Ignore everything in this folder by default.
+*
+
+# Keep directories traversable so Python files in subfolders can be tracked.
+!*/
+
+# Track Python source files and this rule file.
+!*.py
+!**/*.py
+!.gitignore
