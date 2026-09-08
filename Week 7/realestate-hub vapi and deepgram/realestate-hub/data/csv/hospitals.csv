@@ -1,0 +1,17 @@
+locality_full,hospital_name,specialty,distance_km_est
+"DHA Defence, Lahore, Punjab",Bahria International Hospital DHA,Multi-specialty,2.2
+"DHA Defence, Lahore, Punjab",Farooq Hospital DHA Branch,"Multi-specialty, 24/7 ER",2.5
+"Bahria Town Rawalpindi, Rawalpindi, Punjab",Bahria Town Hospital,Multi-specialty incl. Cardiac,1.0
+"Bahria Town Rawalpindi, Rawalpindi, Punjab",Kulsum International Hospital (Bahria access),General,3.0
+"Bahria Town, Islamabad, Islamabad Capital",Shifa International Hospital (nearest tertiary),Tertiary care,6.0
+"F-10, Islamabad, Islamabad Capital",Maroof International Hospital,Multi-specialty,2.0
+"F-6, Islamabad, Islamabad Capital",Ali Medical Centre,Multi-specialty,1.8
+"F-11, Islamabad, Islamabad Capital",Quaid-e-Azam International Hospital,Multi-specialty,2.4
+"E-11, Islamabad, Islamabad Capital",Shifa International Hospital,Tertiary care,4.5
+"G-11, Islamabad, Islamabad Capital",Islamabad Diagnostic Center (IDC),Diagnostics/OPD,1.5
+"G-13, Islamabad, Islamabad Capital",Ali Medical Centre G-8 (nearest),Multi-specialty,3.2
+"Johar Town, Lahore, Punjab",Doctors Hospital Johar Town,Multi-specialty,1.9
+"Model Town, Lahore, Punjab",Shaikh Zayed Hospital,Tertiary care,3.5
+"Faisal Town, Lahore, Punjab",Ittefaq Hospital,General,2.6
+"Airport Housing Society, Rawalpindi, Punjab",Benazir Bhutto Hospital,Teaching hospital,5.0
+"Ghauri Town, Islamabad, Islamabad Capital",Pak Emirates Military Hospital (nearest tertiary),Tertiary care,7.0
