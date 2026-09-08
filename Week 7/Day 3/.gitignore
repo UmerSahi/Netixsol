@@ -8,3 +8,8 @@
 !*.py
 !**/*.py
 !.gitignore
+
+# Track the voice frontend; its own rules exclude dependencies and secrets.
+!voice-frontend-nextjs/
+!voice-frontend-nextjs/voice-frontend/
+!voice-frontend-nextjs/voice-frontend/**
