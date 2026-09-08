@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.log
+
+# generated data (rebuild with backend/build_knowledge_base.py + backend/rebuild_vectorstore.py)
+data/vectorstores/
+results/hallucination_eval_results*.csv
+
+# runtime session artifacts
+storage/
+storage/recordings/*.webm
+storage/evaluations/*.json
+
+# frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local

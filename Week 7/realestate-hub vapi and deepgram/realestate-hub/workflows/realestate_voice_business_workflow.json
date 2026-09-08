@@ -1,0 +1,268 @@
+{
+  "name": "RealEstate Hub - Voice Agent Business Automation Workflow",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "vapi-voice-event",
+        "options": {}
+      },
+      "name": "Webhook - Call / Voice Event",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 1,
+      "position": [
+        240,
+        300
+      ],
+      "id": "node-webhook-1"
+    },
+    {
+      "parameters": {
+        "jsCode": "// Step 1: Parse and classify caller intent\nconst body = $input.item.json.body || $input.item.json;\nconst message = body.message || body;\nconst transcript = (message.transcript || body.transcript || '').toLowerCase();\nconst phone = body.phone || (message.customer && message.customer.number) || 'Not Provided';\nconst clientName = body.client_name || 'Valued Client';\n\nlet intent = 'property_inquiry';\nif (transcript.includes('visit') || transcript.includes('schedule') || transcript.includes('meeting') || transcript.includes('dekhna')) {\n  if (transcript.includes('cancel') || transcript.includes('mansookh') || transcript.includes('nahi aa')) {\n    intent = 'appointment_cancellation';\n  } else if (transcript.includes('reschedule') || transcript.includes('badal') || transcript.includes('change time')) {\n    intent = 'appointment_reschedule';\n  } else {\n    intent = 'appointment_booking';\n  }\n}\n\nreturn [{\n  json: {\n    intent,\n    phone,\n    clientName,\n    transcript,\n    summary: message.summary || 'Customer interaction via Voice Agent',\n    city: body.city || 'Lahore',\n    propertyType: body.property_type || 'House',\n    areaMarla: body.area_marla || '5',\n    dateStr: body.date_str || 'Tomorrow',\n    timeStr: body.time_str || '3:00 PM',\n    agentName: body.employee_name || 'Ahmed Raza',\n    propertyId: body.property_id || 'PROP-1116',\n    propertyTitle: body.property_title || '5 Marla House in DHA Defence, Lahore'\n  }\n}];"
+      },
+      "name": "Classify Call Intent",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [
+        460,
+        300
+      ],
+      "id": "node-classify-2"
+    },
+    {
+      "parameters": {
+        "dataType": "string",
+        "value1": "={{ $json.intent }}",
+        "rules": {
+          "rules": [
+            {
+              "value2": "appointment_booking"
+            },
+            {
+              "value2": "appointment_reschedule"
+            },
+            {
+              "value2": "appointment_cancellation"
+            }
+          ]
+        },
+        "fallbackOutput": 3
+      },
+      "name": "Route by Intent",
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 1,
+      "position": [
+        680,
+        300
+      ],
+      "id": "node-switch-3"
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.BACKEND_URL || 'http://localhost:8000' }}/api/appointments",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"client_name\": \"{{ $json.clientName }}\",\n  \"client_phone\": \"{{ $json.phone }}\",\n  \"employee_name\": \"{{ $json.agentName }}\",\n  \"property_title\": \"{{ $json.propertyTitle }}\",\n  \"property_id\": \"{{ $json.propertyId }}\",\n  \"date_str\": \"{{ $json.dateStr }}\",\n  \"time_str\": \"{{ $json.timeStr }}\",\n  \"city\": \"{{ $json.city }}\",\n  \"property_type\": \"{{ $json.propertyType }}\",\n  \"notes\": \"Voice Agent automated booking\"\n}",
+        "options": {
+          "maxTries": 3,
+          "retryOnFail": true,
+          "waitBetweenTries": 2000
+        }
+      },
+      "name": "Book Appointment & Calendar",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        940,
+        180
+      ],
+      "id": "node-book-4"
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.BACKEND_URL || 'http://localhost:8000' }}/api/appointments/{{ $json.appointmentId || 'latest' }}/reschedule",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"new_date_str\": \"{{ $json.dateStr }}\",\n  \"new_time_str\": \"{{ $json.timeStr }}\",\n  \"reason\": \"Rescheduled via Voice workflow\"\n}",
+        "options": {
+          "maxTries": 3,
+          "retryOnFail": true,
+          "waitBetweenTries": 2000
+        }
+      },
+      "name": "Reschedule Appointment API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        940,
+        320
+      ],
+      "id": "node-resched-5"
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.BACKEND_URL || 'http://localhost:8000' }}/api/appointments/{{ $json.appointmentId || 'latest' }}/cancel",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"reason\": \"Cancelled via Voice workflow\"\n}",
+        "options": {
+          "maxTries": 3,
+          "retryOnFail": true,
+          "waitBetweenTries": 2000
+        }
+      },
+      "name": "Cancel Appointment API",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        940,
+        460
+      ],
+      "id": "node-cancel-6"
+    },
+    {
+      "parameters": {
+        "url": "={{ $env.BACKEND_URL || 'http://localhost:8000' }}/api/webhooks/vapi-call-ended",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"phone\": \"{{ $json.phone }}\",\n  \"transcript\": \"{{ $json.transcript }}\",\n  \"summary\": \"{{ $json.summary }}\"\n}",
+        "options": {
+          "maxTries": 3,
+          "retryOnFail": true,
+          "waitBetweenTries": 2000
+        }
+      },
+      "name": "Log CRM Transcript & Leads",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 3,
+      "position": [
+        1220,
+        300
+      ],
+      "id": "node-crm-7"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.error }}",
+              "operation": "isNotEmpty"
+            }
+          ]
+        }
+      },
+      "name": "Error & Failure Handler",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        1460,
+        300
+      ],
+      "id": "node-error-8"
+    }
+  ],
+  "connections": {
+    "Webhook - Call / Voice Event": {
+      "main": [
+        [
+          {
+            "node": "Classify Call Intent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Classify Call Intent": {
+      "main": [
+        [
+          {
+            "node": "Route by Intent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Route by Intent": {
+      "main": [
+        [
+          {
+            "node": "Book Appointment & Calendar",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Reschedule Appointment API",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Cancel Appointment API",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Log CRM Transcript & Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Book Appointment & Calendar": {
+      "main": [
+        [
+          {
+            "node": "Log CRM Transcript & Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Reschedule Appointment API": {
+      "main": [
+        [
+          {
+            "node": "Log CRM Transcript & Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cancel Appointment API": {
+      "main": [
+        [
+          {
+            "node": "Log CRM Transcript & Leads",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Log CRM Transcript & Leads": {
+      "main": [
+        [
+          {
+            "node": "Error & Failure Handler",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
